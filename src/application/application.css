@@ -1,0 +1,259 @@
+/*start LayoutQuestion  */
+.label {
+	-fx-font-family: "Pixel Sans Serif";
+	-fx-font-size: 10;
+	-fx-wrap-text: true;
+}
+
+.layoutQuestion {
+    -fx-background-color: white;
+    -fx-background-radius: 10px; 
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.3), 10, 0, 0, 5);
+    -fx-padding: 10;
+
+}
+
+.layoutQuestion.purple-card {
+    -fx-border-radius: 5px; 
+    -fx-border-color: #8e6aa3; 
+    -fx-border-width: 5px;
+}
+.layoutQuestion.black-card {
+    -fx-border-radius: 5px; 
+    -fx-border-color: black; 
+    -fx-border-width: 5px; 
+}
+.layoutQuestion.yellow-card {
+    -fx-border-radius: 5px; 
+    -fx-border-color: yellow; 
+    -fx-border-width: 5px; 
+}
+
+
+.layoutQuestion.orange-card {
+    -fx-border-radius: 5px;
+    -fx-border-color: #cb8647; 
+    -fx-border-width: 5px; 
+}
+
+.layoutQuestion.green-card {
+    -fx-border-radius: 5px; 
+    -fx-border-color: #79a568; 
+    -fx-border-width: 5px;
+}
+
+.layoutQuestion.blue-card {
+    -fx-border-radius: 5px; 
+    -fx-border-color: #486e7d;
+    -fx-border-width: 5px; 
+}
+
+.layoutQuestion.final-card {
+    -fx-border-radius: 5px; 
+    -fx-border-color: #486e7d;
+    -fx-border-width: 5px; 
+}
+
+
+/*end layoutQuestion  */
+
+/*start menuPlayers */
+.playerButtonBox{
+	-fx-font-family: "Pixel Sans Serif";
+	-fx-font-size: 10;
+	-fx-border-color: #5f4e4e;
+    -fx-border-width: 7px;
+    -fx-background-color: #a91006;
+    -fx-padding:10px;	
+}
+.playerButtonBox .toggle-button {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-padding: 20px 40px;    
+}
+
+.playerButtonBox .toggle-button:hover {
+    -fx-border-color: white;
+    -fx-border-width: 2px;
+}
+
+#btnCancel{
+	-fx-font-family: "Pixel Sans Serif";
+	-fx-font-size: 10;
+    -fx-background-color: black;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-padding: 15px 30px;
+}
+/*end menuPlayers  */
+
+/*start custom-main-buttons */
+.button {
+	-fx-font-family: "Pixel Sans Serif";
+	-fx-font-size: 10;    
+	-fx-background-color: black;
+    -fx-background-radius: 30;
+    -fx-text-fill: white;
+    -fx-padding: 10px 20px;     
+}
+.button:pressed {
+    -fx-background-color: #333333;
+    -fx-text-fill: #ffffff; 
+    -fx-effect: dropshadow(gaussian, white, 5, 0, 0, 0); 
+}
+.button:hover {
+    -fx-effect: dropshadow(gaussian, white, 10, 0, 0, 0); 
+}
+
+.button:hover .text{
+    -fx-stroke: #b81203;
+    -fx-stroke-width: 1px; 
+}
+
+.custom-main-buttons {
+	-fx-font-family: "Pixel Sans Serif";
+	-fx-font-size: 30;
+    -fx-pref-width: 500px;
+    -fx-pref-height: 100px;
+    -fx-alignment: center;
+}
+
+.custom-main-buttons:hover {
+    -fx-border-radius: 30; 
+    -fx-background-radius: 30; 
+    -fx-effect: dropshadow(gaussian, white, 50, 0, 0, 0); 
+}
+
+.custom-main-buttons:hover .text {
+    -fx-stroke: #b81203;
+    -fx-stroke-width: 2px; 
+}
+
+.options-menu {
+    -fx-background-color: white;
+    -fx-padding: 20px;
+    -fx-border-color: black;
+    -fx-border-width: 2px;
+    -fx-background-radius: 30px; 
+    -fx-border-radius: 30px; 
+    -fx-effect: dropshadow(gaussian, black, 10, 0, 0, 0.5);
+}
+
+/*login box */
+.login-box {
+    -fx-background-color: white;
+    -fx-padding: 20px;
+    -fx-border-color: black;
+    -fx-border-width: 2px;
+    -fx-background-radius: 30px; 
+    -fx-border-radius: 30px; 
+    -fx-effect: dropshadow(gaussian, black, 10, 0, 0, 0.5);
+}
+
+.login-box HBox {
+    -fx-spacing: 10px;
+}
+
+.login-box VBox {
+    -fx-spacing: 20px; 
+}
+
+.login-box Button {
+    -fx-min-width: 100px;
+    -fx-padding: 5px 10px; 
+}
+
+.login-box Label {
+    -fx-padding: 5px 0; 
+}
+
+.login-box TextField, .login-box PasswordField {
+    -fx-pref-width: 150px; 
+    -fx-padding: 5px;
+    -fx-margin: 10px;
+}
+
+/*createOption */
+.create-option {
+    -fx-background-color: white;
+    -fx-padding: 10px; 
+    -fx-border-color: black;
+    -fx-border-width: 2px;
+    -fx-border-radius: 10px; 
+}
+
+.create-option .slider {
+    -fx-pref-width: 300px; 
+    -fx-pref-height: 20px;
+    -fx-background-color: white; 
+    -fx-padding: 5px;
+}
+
+.create-option .slider .thumb {
+    -fx-background-color: #2196F3;
+    -fx-background-radius: 5px; 
+    -fx-padding: 5px; 
+}
+
+.create-option .button {
+    -fx-min-width: 100px;
+    -fx-padding: 5px 10px;
+}
+
+
+/*Duel */
+#duel {
+    -fx-background-color: #f44336; /* Rouge */
+    -fx-padding: 20px;
+    -fx-border-color: #000000; /* Noir */
+    -fx-border-width: 2px;
+    -fx-background-radius: 30px; 
+    -fx-border-radius: 30px; 
+    -fx-effect: dropshadow(gaussian, #000000, 10, 0, 0, 0.5); /* Ombre noire */
+}
+
+#layoutDuel{
+    -fx-background-color: #ffffff; /* Blanc */
+    -fx-padding: 20px;
+    -fx-border-color: #000000; /* Noir */
+    -fx-border-width: 2px;
+    -fx-background-radius: 20px; /* Coins plus arrondis */
+    -fx-border-radius: 20px; /* Coins plus arrondis */
+    -fx-font-size: 18px;
+}
+
+.info-box {
+    -fx-background-color: white;
+    -fx-background-radius: 10; 
+    -fx-border-radius: 5; 
+    -fx-border-color: #b81203; 
+    -fx-border-width: 5px;
+    -fx-padding: 5px; 
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.3), 5, 0, 0, 2); 
+}
+
+.info-box-video {
+    -fx-background-color: white;
+    -fx-background-radius: 10; 
+    -fx-border-radius: 5; 
+    -fx-border-color: black; 
+    -fx-border-width: 5px;
+    -fx-padding: 5px; 
+    -fx-spacing: 20;
+    -fx-font-size: 20px;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.6), 10, 0, 0, 4);
+}
+
+.info-label {
+    -fx-font-size: 16px;
+    -fx-text-fill: black;
+}
+
+.credits-box{
+	-fx-border-color: #5f4e4e;
+    -fx-border-width: 7px;
+    -fx-background-color: #FFF;
+    -fx-padding:10px;
+}
+

@@ -1,0 +1,4134 @@
+{
+  "cards": [
+    {
+      "author": "Yarno Flagothier",
+      "subject": "Magic the Gathering",
+      "theme": "ENTERTAINMENT",
+      "questions": [
+        {
+          "author": "Yarno Flagothier",
+          "subject": "Magic the Gathering",
+          "challenge": "What type of game is Magic the Gathering ?",
+          "answer": "Trading Card Game",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Yarno Flagothier",
+          "subject": "Magic the Gathering",
+          "challenge": "What do you use to cast spells in Magic the Gathering ?",
+          "answer": "Mana",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Yarno Flagothier",
+          "subject": "Magic the Gathering",
+          "challenge": "What is \"The Stack\" in Magic the Gathering referring to ?",
+          "answer": "Spell resolution",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Yarno Flagothier",
+          "subject": "Magic the Gathering",
+          "challenge": "In Magic the Gathering slang, what does \"milling\" mean ?",
+          "answer": "Deck depletion",
+          "theme": "ENTERTAINMENT"
+        }
+      ]
+    },
+    {
+      "author": "Yarno Flagothier",
+      "subject": "Piano",
+      "theme": "ENTERTAINMENT",
+      "questions": [
+        {
+          "author": "Yarno Flagothier",
+          "subject": "Piano",
+          "challenge": "What type of musical instrument is a piano ?",
+          "answer": "Keyboard",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Yarno Flagothier",
+          "subject": "Piano",
+          "challenge": "How many keys does a standard piano have ?",
+          "answer": "88",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Yarno Flagothier",
+          "subject": "Piano",
+          "challenge": "What is the function of the sustain pedal on a piano ?",
+          "answer": "Sustain notes",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Yarno Flagothier",
+          "subject": "Piano",
+          "challenge": "What is the term for striking a piano key with a force between piano and forte ?",
+          "answer": "Mezzo Forte",
+          "theme": "ENTERTAINMENT"
+        }
+      ]
+    },
+    {
+      "author": "Yarno Flagothier",
+      "subject": "Programming",
+      "theme": "INFORMATICS",
+      "questions": [
+        {
+          "author": "Yarno Flagothier",
+          "subject": "Programming",
+          "challenge": "What do programmers write to make a computer work ?",
+          "answer": "Code",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Yarno Flagothier",
+          "subject": "Programming",
+          "challenge": "What does HTML stand for in web development ?",
+          "answer": "Hypertext Markup Language",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Yarno Flagothier",
+          "subject": "Programming",
+          "challenge": "What is the purpose of a \"try-catch\" block in programming ?",
+          "answer": "Error handling",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Yarno Flagothier",
+          "subject": "Programming",
+          "challenge": "What is the significance of the term \"memoization\" in the context of algorithms ?",
+          "answer": "Caching results",
+          "theme": "INFORMATICS"
+        }
+      ]
+    },
+    {
+      "author": "Yarno Flagothier",
+      "subject": "Database",
+      "theme": "INFORMATICS",
+      "questions": [
+        {
+          "author": "Yarno Flagothier",
+          "subject": "Database",
+          "challenge": "What is used to store data in a computer systematically ?",
+          "answer": "Database",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Yarno Flagothier",
+          "subject": "Database",
+          "challenge": "In a database, what does SQL stand for ?",
+          "answer": "Structured Query Language",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Yarno Flagothier",
+          "subject": "Database",
+          "challenge": "Why is it preferable to use database indexes ?",
+          "answer": "Faster queries",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Yarno Flagothier",
+          "subject": "Database",
+          "challenge": "What does ACID ensure in transactions ?",
+          "answer": "Consistency",
+          "theme": "INFORMATICS"
+        }
+      ]
+    },
+    {
+      "author": "Yarno Flagothier",
+      "subject": "Mathematics",
+      "theme": "EDUCATION",
+      "questions": [
+        {
+          "author": "Yarno Flagothier",
+          "subject": "Mathematics",
+          "challenge": "What is the opposite of addition in mathematics ?",
+          "answer": "Subtraction",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Yarno Flagothier",
+          "subject": "Mathematics",
+          "challenge": "In geometry, what is the sum of the interior angles of a triangle ?",
+          "answer": "180 degrees",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Yarno Flagothier",
+          "subject": "Mathematics",
+          "challenge": "What are the two main types of numbers in mathematics ?",
+          "answer": "Prime and composite",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Yarno Flagothier",
+          "subject": "Mathematics",
+          "challenge": "What is the Riemann Hypothesis about ?",
+          "answer": "Prime zeros distribution",
+          "theme": "EDUCATION"
+        }
+      ]
+    },
+    {
+      "author": "Yarno Flagothier",
+      "subject": "Science",
+      "theme": "EDUCATION",
+      "questions": [
+        {
+          "author": "Yarno Flagothier",
+          "subject": "Science",
+          "challenge": "What is the study of living things ?",
+          "answer": "Biology",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Yarno Flagothier",
+          "subject": "Science",
+          "challenge": "What is the smallest unit of an element ?",
+          "answer": "Atom",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Yarno Flagothier",
+          "subject": "Science",
+          "challenge": "What is the process by which cell breaks down glucose to release energy ?",
+          "answer": "Cellular respiration",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Yarno Flagothier",
+          "subject": "Science",
+          "challenge": "What fundamental concept deos Schrodinger\u0027s equation describe in quantum mechanics ?",
+          "answer": "Wave functions",
+          "theme": "EDUCATION"
+        }
+      ]
+    },
+    {
+      "author": "Yarno Flagothier",
+      "subject": "Goldfish",
+      "theme": "IMPROBABLE",
+      "questions": [
+        {
+          "author": "Yarno Flagothier",
+          "subject": "Goldfish",
+          "challenge": "What color is a typical goldfish ?",
+          "answer": "Orange",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Yarno Flagothier",
+          "subject": "Goldfish",
+          "challenge": "How long is the average lifespan of a goldfish ?",
+          "answer": "10 years",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Yarno Flagothier",
+          "subject": "Goldfish",
+          "challenge": "What is the scientific name for a goldfish ?",
+          "answer": "Carassius Auratus",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Yarno Flagothier",
+          "subject": "Goldfish",
+          "challenge": "What is the purpose of the swim bladder in a goldfish ?",
+          "answer": "Buoyancy control",
+          "theme": "IMPROBABLE"
+        }
+      ]
+    },
+    {
+      "author": "Yarno Flagothier",
+      "subject": "Volcano",
+      "theme": "IMPROBABLE",
+      "questions": [
+        {
+          "author": "Yarno Flagothier",
+          "subject": "Volcano",
+          "challenge": "What is the molten rock inside a volcane called ?",
+          "answer": "Magma",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Yarno Flagothier",
+          "subject": "Volcano",
+          "challenge": "Which gas is commonly emitted by volcanoes during eruptions ?",
+          "answer": "Sulfur dioxide",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Yarno Flagothier",
+          "subject": "Volcano",
+          "challenge": "What is the term for the vent at the summit of a volcano ?",
+          "answer": "Crater",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Yarno Flagothier",
+          "subject": "Volcano",
+          "challenge": "What is the term for the bowl-shaped depression at the top of a volcano ?",
+          "answer": "Caldera",
+          "theme": "IMPROBABLE"
+        }
+      ]
+    },
+    {
+      "author": "John Curez",
+      "subject": "OOP",
+      "theme": "INFORMATICS",
+      "questions": [
+        {
+          "author": "John Curez",
+          "subject": "OOP",
+          "challenge": "What is the keyword used to reference the current instance in a method in Java ?",
+          "answer": "this",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "John Curez",
+          "subject": "OOP",
+          "challenge": "What is the term in Java that refers to the grouping of data (attributes) and methods (behaviors) into a single unit ?",
+          "answer": "Encapsulation",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "John Curez",
+          "subject": "OOP",
+          "challenge": "In which association does the destruction of the composite not lead to the destruction of the components ?",
+          "answer": "Aggregation",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "John Curez",
+          "subject": "OOP",
+          "challenge": "What is a class defined inside a method without an explicit class name called in Java ?",
+          "answer": "Anonymous Intern Class",
+          "theme": "INFORMATICS"
+        }
+      ]
+    },
+    {
+      "author": "John Curez",
+      "subject": "Pattern",
+      "theme": "INFORMATICS",
+      "questions": [
+        {
+          "author": "John Curez",
+          "subject": "Pattern",
+          "challenge": "What design pattern guarantees that a class has only one instance and provides a global access point to that instance ?",
+          "answer": "Singleton",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "John Curez",
+          "subject": "Pattern",
+          "challenge": "What triggers a transition in a state machine diagram ?",
+          "answer": "Event",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "John Curez",
+          "subject": "Pattern",
+          "challenge": "An activity can be interrupted at any time by an event ? Yes or no ?",
+          "answer": "Yes",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "John Curez",
+          "subject": "Pattern",
+          "challenge": "The Strategy design pattern allows you to encapsulate multiple interchangeable algorithms in a family and select them dynamically at runtime. True or false ?",
+          "answer": "True",
+          "theme": "INFORMATICS"
+        }
+      ]
+    },
+    {
+      "author": "John Curez",
+      "subject": "World War II",
+      "theme": "EDUCATION",
+      "questions": [
+        {
+          "author": "John Curez",
+          "subject": "World War II",
+          "challenge": "In which year did World War II begin ?",
+          "answer": "1939",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "John Curez",
+          "subject": "World War II",
+          "challenge": "Who was the leader of Nazi Germany during the Second World War ?",
+          "answer": "Adolf Hitler",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "John Curez",
+          "subject": "World War II",
+          "challenge": "What military operation, carried out by the Allies on June 6, 1944, marked the beginning of the liberation of Western Europe occupied by Nazi Germany ?",
+          "answer": "Normandy landings",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "John Curez",
+          "subject": "World War II",
+          "challenge": "What German term, often used to describe the rapid and coordinated military strategy employed by Nazi Germany at the beginning of the Second World War, literally means \"lightning war\" in English ?",
+          "answer": "Blitzkrieg",
+          "theme": "EDUCATION"
+        }
+      ]
+    },
+    {
+      "author": "John Curez",
+      "subject": "Chemistry",
+      "theme": "EDUCATION",
+      "questions": [
+        {
+          "author": "John Curez",
+          "subject": "Chemistry",
+          "challenge": "What is the total number of known natural chemical elements to date ?",
+          "answer": "118",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "John Curez",
+          "subject": "Chemistry",
+          "challenge": "What is the chemical formula for water ?",
+          "answer": "H2O",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "John Curez",
+          "subject": "Chemistry",
+          "challenge": "What physical process describes the direct transition of a substance from a solid state to a gaseous state without passing through the liquid state ?",
+          "answer": "Sublimation",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "John Curez",
+          "subject": "Chemistry",
+          "challenge": "What is the name of the famous Russian scientist who created the first periodic table of elements, classifying them in order of increasing atomic weight ?",
+          "answer": "Mendeleiev",
+          "theme": "EDUCATION"
+        }
+      ]
+    },
+    {
+      "author": "John Curez",
+      "subject": "Video Games",
+      "theme": "ENTERTAINMENT",
+      "questions": [
+        {
+          "author": "John Curez",
+          "subject": "Video Games",
+          "challenge": "What is the first console released by Sony ?",
+          "answer": "PlayStation",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "John Curez",
+          "subject": "Video Games",
+          "challenge": "Who is the director of the video game \"Death Stranding\" ?",
+          "answer": "Hideo Kojima",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "John Curez",
+          "subject": "Video Games",
+          "challenge": "What is the name of the Tiefling who escaped from the clutches of the archdevil Zariel ?",
+          "answer": "Karlach",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "John Curez",
+          "subject": "Video Games",
+          "challenge": "What is the name of the hero in the first Donkey Kong game ?",
+          "answer": "Jumpman",
+          "theme": "ENTERTAINMENT"
+        }
+      ]
+    },
+    {
+      "author": "John Curez",
+      "subject": "Marvel Cinematic Universe",
+      "theme": "ENTERTAINMENT",
+      "questions": [
+        {
+          "author": "John Curez",
+          "subject": "Marvel Cinematic Universe",
+          "challenge": "Which famous personality appears in each of the Marvel films from Iron Man 1 to Avengers: Endgame ?",
+          "answer": "Stan Lee",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "John Curez",
+          "subject": "Marvel Cinematic Universe",
+          "challenge": "In which year did the MCU begin ?",
+          "answer": "2008",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "John Curez",
+          "subject": "Marvel Cinematic Universe",
+          "challenge": "How many Infinity Stones exist in the MCU ?",
+          "answer": "6",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "John Curez",
+          "subject": "Marvel Cinematic Universe",
+          "challenge": "What famous line does Tony Stark / Iron Man say just before using the Infinity Gauntlet to defeat Thanos and his army in \"Avengers: Endgame\" ?",
+          "answer": "I am Iron Man",
+          "theme": "ENTERTAINMENT"
+        }
+      ]
+    },
+    {
+      "author": "John Curez",
+      "subject": "Mythical Creatures",
+      "theme": "IMPROBABLE",
+      "questions": [
+        {
+          "author": "John Curez",
+          "subject": "Mythical Creatures",
+          "challenge": "What mythological animal has a horn on its forehead ?",
+          "answer": "Unicorn",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "John Curez",
+          "subject": "Mythical Creatures",
+          "challenge": "In Greek mythology, which creature has hair made of snakes ?",
+          "answer": "Medusa",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "John Curez",
+          "subject": "Mythical Creatures",
+          "challenge": "In Norse mythology, what is the name of the monstrous wolf that killed Odin ?",
+          "answer": "Fenrir",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "John Curez",
+          "subject": "Mythical Creatures",
+          "challenge": "In Japanese mythology, which creature can transform into a beautiful woman ?",
+          "answer": "Kitsune",
+          "theme": "IMPROBABLE"
+        }
+      ]
+    },
+    {
+      "author": "John Curez",
+      "subject": "Powerlifting",
+      "theme": "IMPROBABLE",
+      "questions": [
+        {
+          "author": "John Curez",
+          "subject": "Powerlifting",
+          "challenge": "What are the three basic movements in powerlifting ?",
+          "answer": "Squat Bench press Deadlift",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "John Curez",
+          "subject": "Powerlifting",
+          "challenge": "Which is the most recognized international federation for powerlifting ?",
+          "answer": "IPF",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "John Curez",
+          "subject": "Powerlifting",
+          "challenge": "What is the name of the biggest powerlifting competition that offers the title of Champion of Champions ?",
+          "answer": "Sheffield",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "John Curez",
+          "subject": "Powerlifting",
+          "challenge": "What is the name of the world champion in the -69kg category in 2023 who set a world record in squat total ?",
+          "answer": "Lya Bavoil",
+          "theme": "IMPROBABLE"
+        }
+      ]
+    },
+    {
+      "author": "Lea Bourlet",
+      "subject": "LOTR movie sets",
+      "theme": "IMPROBABLE",
+      "questions": [
+        {
+          "author": "Lea Bourlet",
+          "subject": "LOTR movie sets",
+          "challenge": "Did Elijah Wood, who portrayed Frodo, wear a wig ?",
+          "answer": "Yes",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Lea Bourlet",
+          "subject": "LOTR movie sets",
+          "challenge": "The three movies were shot at the same time, is that true or false ?",
+          "answer": "True",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Lea Bourlet",
+          "subject": "LOTR movie sets",
+          "challenge": "Which item did Viggo Mortensen, who portrayed Aragorn, always keep with him ?",
+          "answer": "Sword",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Lea Bourlet",
+          "subject": "LOTR movie sets",
+          "challenge": "While filming Lord of the Rings, which body part did Viggo Mortensen, portraying Aragorn, broke after hitting a helmet ?",
+          "answer": "Toes",
+          "theme": "IMPROBABLE"
+        }
+      ]
+    },
+    {
+      "author": "Lea Bourlet",
+      "subject": "Knitting",
+      "theme": "IMPROBABLE",
+      "questions": [
+        {
+          "author": "Lea Bourlet",
+          "subject": "Knitting",
+          "challenge": "Complete the definition: knitting is the process of making fabric with yarn and two ...",
+          "answer": "Needles",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Lea Bourlet",
+          "subject": "Knitting",
+          "challenge": "What is the name of the set of instructions used by knitters to create a piece of clothing ?",
+          "answer": "Pattern",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Lea Bourlet",
+          "subject": "Knitting",
+          "challenge": "Knitting cannot be reproduced by a machine, unlike crochet. Is that true or false ?",
+          "answer": "False",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Lea Bourlet",
+          "subject": "Knitting",
+          "challenge": "One of these terms is not used in knitting: SSK, k2tog, M1R, SC. Which one ?",
+          "answer": "SC",
+          "theme": "IMPROBABLE"
+        }
+      ]
+    },
+    {
+      "author": "Lea Bourlet",
+      "subject": "Object-Oriented Programming",
+      "theme": "INFORMATICS",
+      "questions": [
+        {
+          "author": "Lea Bourlet",
+          "subject": "Object-Oriented Programming",
+          "challenge": "Java is the only object-oriented programming language that exists, is that true or false ?",
+          "answer": "False",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Lea Bourlet",
+          "subject": "Object-Oriented Programming",
+          "challenge": "Between these languages, which one is not object-oriented: Python, Java, C, C# ?",
+          "answer": "C",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Lea Bourlet",
+          "subject": "Object-Oriented Programming",
+          "challenge": "What is the name of the process by which one object, often called the child, can acquire the properties of another object ?",
+          "answer": "Inheritance",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Lea Bourlet",
+          "subject": "Object-Oriented Programming",
+          "challenge": "What is the name of the process to create methods to control the access and modification of an object\u0027s attributes and methods, in order to protect it ?",
+          "answer": "Encapsulation",
+          "theme": "INFORMATICS"
+        }
+      ]
+    },
+    {
+      "author": "Lea Bourlet",
+      "subject": "Design Patterns",
+      "theme": "INFORMATICS",
+      "questions": [
+        {
+          "author": "Lea Bourlet",
+          "subject": "Design Patterns",
+          "challenge": "Are design patterns only used by Java developers ?",
+          "answer": "No",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Lea Bourlet",
+          "subject": "Design Patterns",
+          "challenge": "Design patterns are only used in procedural languages, is that true or false ?",
+          "answer": "False",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Lea Bourlet",
+          "subject": "Design Patterns",
+          "challenge": "The Decorator design pattern is classified into which category: creational, structural, or behavioral ?",
+          "answer": "Structural",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Lea Bourlet",
+          "subject": "Design Patterns",
+          "challenge": "What is the name of the design pattern used to ensure that the user can create one instance only ?",
+          "answer": "Singleton",
+          "theme": "INFORMATICS"
+        }
+      ]
+    },
+    {
+      "author": "Lea Bourlet",
+      "subject": "Twin Peaks",
+      "theme": "ENTERTAINMENT",
+      "questions": [
+        {
+          "author": "Lea Bourlet",
+          "subject": "Twin Peaks",
+          "challenge": "In which country does the Twin Peaks TV show take place ?",
+          "answer": "USA",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Lea Bourlet",
+          "subject": "Twin Peaks",
+          "challenge": "Who directed Twin Peaks ?",
+          "answer": "David Lynch",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Lea Bourlet",
+          "subject": "Twin Peaks",
+          "challenge": "What was the name of the diner in Twin Peaks ?",
+          "answer": "Double R",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Lea Bourlet",
+          "subject": "Twin Peaks",
+          "challenge": "What is the Log Lady\u0027s actual first name: Annie, Norma, Margaret, or Shelly ?",
+          "answer": "Margaret",
+          "theme": "ENTERTAINMENT"
+        }
+      ]
+    },
+    {
+      "author": "Lea Bourlet",
+      "subject": "World of Warcraft",
+      "theme": "ENTERTAINMENT",
+      "questions": [
+        {
+          "author": "Lea Bourlet",
+          "subject": "World of Warcraft",
+          "challenge": "Is World of Warcraft an online game ?",
+          "answer": "Yes",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Lea Bourlet",
+          "subject": "World of Warcraft",
+          "challenge": "Which playable race was added when the Mists of Pandaria extension was introduced ?",
+          "answer": "Pandaren",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Lea Bourlet",
+          "subject": "World of Warcraft",
+          "challenge": "What is the name of the Lich King\u0027s longsword ?",
+          "answer": "Frostmourne",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Lea Bourlet",
+          "subject": "World of Warcraft",
+          "challenge": "During which extension were introduced the Mythic+ dungeons ?",
+          "answer": "Legion",
+          "theme": "ENTERTAINMENT"
+        }
+      ]
+    },
+    {
+      "author": "Lea Bourlet",
+      "subject": "Ovid",
+      "theme": "EDUCATION",
+      "questions": [
+        {
+          "author": "Lea Bourlet",
+          "subject": "Ovid",
+          "challenge": "Who is Ovid: a Roman god, a Roman poet or a Greek poet ?",
+          "answer": "A Roman poet",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Lea Bourlet",
+          "subject": "Ovid",
+          "challenge": "In Ovid\u0027s Metamorphoses, in which animal was Arachne transformed into after a fight with Athena ?",
+          "answer": "Spider",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Lea Bourlet",
+          "subject": "Ovid",
+          "challenge": "Based on Ovid\u0027s Metamorphoses, Appollo wears a laurel crown to represent his love and desire to be with which nymph ?",
+          "answer": "Daphne",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Lea Bourlet",
+          "subject": "Ovid",
+          "challenge": "Which one of these works was not written by Ovid: Heroides, Aeneid, Metamorphoses or Fasti ?",
+          "answer": "Aeneid",
+          "theme": "EDUCATION"
+        }
+      ]
+    },
+    {
+      "author": "Lea Bourlet",
+      "subject": "Literature",
+      "theme": "EDUCATION",
+      "questions": [
+        {
+          "author": "Lea Bourlet",
+          "subject": "Literature",
+          "challenge": "From which Shakespeare\u0027s play comes the famous quote \"To be or not to be, that is the question\" ?",
+          "answer": "Hamlet",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Lea Bourlet",
+          "subject": "Literature",
+          "challenge": "Which novel by Albert Camus starts with the sentence \"Today Mom died\" ?",
+          "answer": "The Stranger",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Lea Bourlet",
+          "subject": "Literature",
+          "challenge": "Were the novels \"Pride and Prejudice\" and \"Wuthering Heights\" written by the same author ?",
+          "answer": "No",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Lea Bourlet",
+          "subject": "Literature",
+          "challenge": "Who wrote \"Thus Spoke Zarathustra : A Book for All and None\" ?",
+          "answer": "Nietzsche",
+          "theme": "EDUCATION"
+        }
+      ]
+    },
+    {
+      "author": "Guillaume Cardinal",
+      "subject": "Knowledge",
+      "theme": "EDUCATION",
+      "questions": [
+        {
+          "author": "Guillaume Cardinal",
+          "subject": "Knowledge",
+          "challenge": "Which economist wrote the Communist Manifesto?",
+          "answer": "Karl Marx",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Guillaume Cardinal",
+          "subject": "Knowledge",
+          "challenge": "Which philosopher originated the concept of dialectics?",
+          "answer": "Hegel",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Guillaume Cardinal",
+          "subject": "Knowledge",
+          "challenge": "Which physics law states that entropy cannot diminish with time?",
+          "answer": "second law of thermodynamics",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Guillaume Cardinal",
+          "subject": "Knowledge",
+          "challenge": "What does ADHD stand for?",
+          "answer": "Attention Deficit Hyperactivity Disorder",
+          "theme": "EDUCATION"
+        }
+      ]
+    },
+    {
+      "author": "Guillaume Cardinal",
+      "subject": "People",
+      "theme": "IMPROBABLE",
+      "questions": [
+        {
+          "author": "Guillaume Cardinal",
+          "subject": "People",
+          "challenge": "Which actor is infamous for slapping the presenter at the 94th Academy Awards?",
+          "answer": "Will Smith",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Guillaume Cardinal",
+          "subject": "People",
+          "challenge": "What is the name of the actor who was governor of California from 2003 to 2011?",
+          "answer": "Arnold Schwarzenegger",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Guillaume Cardinal",
+          "subject": "People",
+          "challenge": "In which sport did the philosopher Plato win two awards at the Olympic Games?",
+          "answer": "Wrestling",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Guillaume Cardinal",
+          "subject": "People",
+          "challenge": "In which discipline did the actor of Mr. Bean, Rowan Atkinson, graduate?",
+          "answer": "Electrical engineering",
+          "theme": "IMPROBABLE"
+        }
+      ]
+    },
+    {
+      "author": "Guillaume Cardinal",
+      "subject": "Around the world",
+      "theme": "IMPROBABLE",
+      "questions": [
+        {
+          "author": "Guillaume Cardinal",
+          "subject": "Around the world",
+          "challenge": "What animal kills the most humans each year?",
+          "answer": "Mosquito",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Guillaume Cardinal",
+          "subject": "Around the world",
+          "challenge": "What is the most popular sport in India?",
+          "answer": "Cricket",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Guillaume Cardinal",
+          "subject": "Around the world",
+          "challenge": "In which American state was the TV series Friends filmed?",
+          "answer": "California",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Guillaume Cardinal",
+          "subject": "Around the world",
+          "challenge": "Which country will host the 2029 Winter Olympics?",
+          "answer": "Saudi Arabia",
+          "theme": "IMPROBABLE"
+        }
+      ]
+    },
+    {
+      "author": "Guillaume Cardinal",
+      "subject": "Celebrities",
+      "theme": "ENTERTAINMENT",
+      "questions": [
+        {
+          "author": "Guillaume Cardinal",
+          "subject": "Celebrities",
+          "challenge": "What is the name of the author of the comic book The Adventures of Tintin?",
+          "answer": "Hergé",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Guillaume Cardinal",
+          "subject": "Celebrities",
+          "challenge": "What is the name of the biggest hit by the band Oasis?",
+          "answer": "Wonderwall",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Guillaume Cardinal",
+          "subject": "Celebrities",
+          "challenge": "Which city does the rapper Drake come from?",
+          "answer": "Toronto",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Guillaume Cardinal",
+          "subject": "Celebrities",
+          "challenge": "What is the name of Eminem\u0027s first album?",
+          "answer": "Infinite",
+          "theme": "ENTERTAINMENT"
+        }
+      ]
+    },
+    {
+      "author": "Guillaume Cardinal",
+      "subject": "Various",
+      "theme": "ENTERTAINMENT",
+      "questions": [
+        {
+          "author": "Guillaume Cardinal",
+          "subject": "Various",
+          "challenge": "Which country won the 2010 FIFA World Cup?",
+          "answer": "Spain",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Guillaume Cardinal",
+          "subject": "Various",
+          "challenge": "Which country won the 2023 Rugby World Cup?",
+          "answer": "South Africa",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Guillaume Cardinal",
+          "subject": "Various",
+          "challenge": "In the Uncharted games, what is the name of Nathan Drake\u0027s mentor?",
+          "answer": "Victor Sullivan",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Guillaume Cardinal",
+          "subject": "Various",
+          "challenge": "In the Harry Potter books, what is the name of the History of Magic professor at Hogwarts?",
+          "answer": "Cuthbert Binns",
+          "theme": "ENTERTAINMENT"
+        }
+      ]
+    },
+    {
+      "author": "Guillaume Cardinal",
+      "subject": "UML",
+      "theme": "INFORMATICS",
+      "questions": [
+        {
+          "author": "Guillaume Cardinal",
+          "subject": "UML",
+          "challenge": "What UML diagram is a graphical representation of an object\u0027s state over time?",
+          "answer": "State Machine Diagram",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Guillaume Cardinal",
+          "subject": "UML",
+          "challenge": "In UML, what diagram is used to represent the various use cases of a system?",
+          "answer": "Use case diagram",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Guillaume Cardinal",
+          "subject": "UML",
+          "challenge": "What does UML stand for?",
+          "answer": "Unified Modeling Language",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Guillaume Cardinal",
+          "subject": "UML",
+          "challenge": "In the Observer design pattern in Java, what form does Observable take?",
+          "answer": "An abstract class",
+          "theme": "INFORMATICS"
+        }
+      ]
+    },
+    {
+      "author": "Lucas Panepinto",
+      "subject": "Hardware",
+      "theme": "INFORMATICS",
+      "questions": [
+        {
+          "author": "Lucas Panepinto",
+          "subject": "Hardware",
+          "challenge": "What is the peripheral used for typing?",
+          "answer": "Keyboard",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Lucas Panepinto",
+          "subject": "Hardware",
+          "challenge": "On which component of the PC is the CPU located?",
+          "answer": "Motherboard",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Lucas Panepinto",
+          "subject": "Hardware",
+          "challenge": "Which type of storage is faster: HDD or SSD?",
+          "answer": "SSD",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Lucas Panepinto",
+          "subject": "Hardware",
+          "challenge": "What is the name of the port used by the GPU?",
+          "answer": "PCIe",
+          "theme": "INFORMATICS"
+        }
+      ]
+    },
+    {
+      "author": "Lucas Panepinto",
+      "subject": "Software",
+      "theme": "INFORMATICS",
+      "questions": [
+        {
+          "author": "Lucas Panepinto",
+          "subject": "Software",
+          "challenge": "What is the operating system produced by Microsoft?",
+          "answer": "Windows",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Lucas Panepinto",
+          "subject": "Software",
+          "challenge": "On Windows, what extention is usually used for executable programs",
+          "answer": ".exe",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Lucas Panepinto",
+          "subject": "Software",
+          "challenge": "What technology do most web browsers use?",
+          "answer": "Chromium",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Lucas Panepinto",
+          "subject": "Software",
+          "challenge": "What part of the operating system acts as a bridge between software applications and the computer\u0027s hardware, managing resources and controlling access?",
+          "answer": "Kernel",
+          "theme": "INFORMATICS"
+        }
+      ]
+    },
+    {
+      "author": "Lucas Panepinto",
+      "subject": "History",
+      "theme": "EDUCATION",
+      "questions": [
+        {
+          "author": "Lucas Panepinto",
+          "subject": "History",
+          "challenge": "In witch year did World War II end?",
+          "answer": "1945",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Lucas Panepinto",
+          "subject": "History",
+          "challenge": "In witch year was Belgium created?",
+          "answer": "1830",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Lucas Panepinto",
+          "subject": "History",
+          "challenge": "In witch year did the french revolution happen?",
+          "answer": "1789",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Lucas Panepinto",
+          "subject": "History",
+          "challenge": "In witch year do researchers estimate the occurence of the climatic point of no return?",
+          "answer": "2045",
+          "theme": "EDUCATION"
+        }
+      ]
+    },
+    {
+      "author": "Lucas Panepinto",
+      "subject": "Geography",
+      "theme": "EDUCATION",
+      "questions": [
+        {
+          "author": "Lucas Panepinto",
+          "subject": "Geography",
+          "challenge": "Where does a compass point to?",
+          "answer": "North",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Lucas Panepinto",
+          "subject": "Geography",
+          "challenge": "What is the biggest country in the world?",
+          "answer": "Russia",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Lucas Panepinto",
+          "subject": "Geography",
+          "challenge": "What is the capital of the Unated States (USA)?",
+          "answer": "Washington DC",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Lucas Panepinto",
+          "subject": "Geography",
+          "challenge": "Witch country is known as the \"Land of the Rising Sun\"?",
+          "answer": "Japan",
+          "theme": "EDUCATION"
+        }
+      ]
+    },
+    {
+      "author": "Lucas Panepinto",
+      "subject": "Movies",
+      "theme": "EDUCATION",
+      "questions": [
+        {
+          "author": "Lucas Panepinto",
+          "subject": "Movies",
+          "challenge": "What is the name of the famous movie about a sinking ship?",
+          "answer": "Titanic",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Lucas Panepinto",
+          "subject": "Movies",
+          "challenge": "Who directed the movie Jurassic Park?",
+          "answer": "Steven Spielberg",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Lucas Panepinto",
+          "subject": "Movies",
+          "challenge": "What is the first fully 3D animated movie?",
+          "answer": "Toy Story",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Lucas Panepinto",
+          "subject": "Movies",
+          "challenge": "In Lord of the Rings, what is Gandalf\u0027s famous catchphrase when fighting the Balrog?",
+          "answer": "You shall not pass",
+          "theme": "EDUCATION"
+        }
+      ]
+    },
+    {
+      "author": "Lucas Panepinto",
+      "subject": "Sports",
+      "theme": "EDUCATION",
+      "questions": [
+        {
+          "author": "Lucas Panepinto",
+          "subject": "Sports",
+          "challenge": "What is the most famous sport in the world?",
+          "answer": "Football",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Lucas Panepinto",
+          "subject": "Sports",
+          "challenge": "Who is the fastest man in the world?",
+          "answer": "Usain Bolt",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Lucas Panepinto",
+          "subject": "Sports",
+          "challenge": "What is the biggest wrestling company?",
+          "answer": "WWE",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Lucas Panepinto",
+          "subject": "Sports",
+          "challenge": "Witch athlete has won the most Olympic gold medals in history?",
+          "answer": "Michael Phelps",
+          "theme": "EDUCATION"
+        }
+      ]
+    },
+    {
+      "author": "Lucas Panepinto",
+      "subject": "Satellites",
+      "theme": "IMPROBABLE",
+      "questions": [
+        {
+          "author": "Lucas Panepinto",
+          "subject": "Satellites",
+          "challenge": "What is the name of earth\u0027s natural satellite?",
+          "answer": "Moon",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Lucas Panepinto",
+          "subject": "Satellites",
+          "challenge": "What is the name of the habitable artificial satellite orbiting arround the earth?",
+          "answer": "ISS",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Lucas Panepinto",
+          "subject": "Satellites",
+          "challenge": "What is the name of the first artificial satellite launched into space?",
+          "answer": "Sputnik 1",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Lucas Panepinto",
+          "subject": "Satellites",
+          "challenge": "How many natural satellites are orbiting around Jupiter?",
+          "answer": "79",
+          "theme": "IMPROBABLE"
+        }
+      ]
+    },
+    {
+      "author": "Lucas Panepinto",
+      "subject": "Animals",
+      "theme": "IMPROBABLE",
+      "questions": [
+        {
+          "author": "Lucas Panepinto",
+          "subject": "Animals",
+          "challenge": "What is the biggest animal on earth?",
+          "answer": "Blue whale",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Lucas Panepinto",
+          "subject": "Animals",
+          "challenge": "What is the most famous mammal that lays eggs?",
+          "answer": "Platypus",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Lucas Panepinto",
+          "subject": "Animals",
+          "challenge": "What is the name of the biggest shark that lived on earth?",
+          "answer": "Megalodon",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Lucas Panepinto",
+          "subject": "Animals",
+          "challenge": "What is the deadliest jellyfish?",
+          "answer": "Box jellyfish",
+          "theme": "IMPROBABLE"
+        }
+      ]
+    },
+    {
+      "author": "Jarod Dubois",
+      "subject": "Capitals",
+      "theme": "EDUCATION",
+      "questions": [
+        {
+          "author": "Jarod Dubois",
+          "subject": "Capitals",
+          "challenge": "Which European city serves as the capital of both Belgium and the European Union ?",
+          "answer": "Brussels",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Jarod Dubois",
+          "subject": "Capitals",
+          "challenge": "What is the capital city of Australia ?",
+          "answer": "Camberra",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Jarod Dubois",
+          "subject": "Capitals",
+          "challenge": "Which African city is the political capital of South Africa ?",
+          "answer": "Pretoria",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Jarod Dubois",
+          "subject": "Capitals",
+          "challenge": "Which Latin American city is the capital of both Bolivia and the highest administrative capital in the world?",
+          "answer": "La Paz",
+          "theme": "EDUCATION"
+        }
+      ]
+    },
+    {
+      "author": "Jarod Dubois",
+      "subject": "Internet Memes",
+      "theme": "IMPROBABLE",
+      "questions": [
+        {
+          "author": "Jarod Dubois",
+          "subject": "Internet Memes",
+          "challenge": "What animal was the star of the internet meme known as \"Keyboard Cat\" ?",
+          "answer": "Cat",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Jarod Dubois",
+          "subject": "Internet Memes",
+          "challenge": "What popular internet meme often features a Shiba Inu dog with multicolored text in Comic Sans MS font ?",
+          "answer": "Doge",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Jarod Dubois",
+          "subject": "Internet Memes",
+          "challenge": "What popular meme format involves a grid of nine panels, each depicting a different emotion or scenario, often used to express a range of reactions ?",
+          "answer": "Expanding brain",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Jarod Dubois",
+          "subject": "Internet Memes",
+          "challenge": "The \"This Is Fine\" meme, featuring a character sitting in a room engulfed in flames,is often used to humorously represent situations where everything seems to be going wrong.What webcomic does this meme originate from ?",
+          "answer": "The OatMeal",
+          "theme": "IMPROBABLE"
+        }
+      ]
+    },
+    {
+      "author": "Jarod Dubois",
+      "subject": "World Records",
+      "theme": "IMPROBABLE",
+      "questions": [
+        {
+          "author": "Jarod Dubois",
+          "subject": "World Records",
+          "challenge": "Who holds the world record for the fastest 100 meters sprint in men\u0027s athletics ?",
+          "answer": "Usain Bolt",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Jarod Dubois",
+          "subject": "World Records",
+          "challenge": "What is the Guinness World Record for the most socks put on one foot in 30 seconds ?",
+          "answer": "31",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Jarod Dubois",
+          "subject": "World Records",
+          "challenge": "Who holds the world record for the fastest time to eat a bowl of spaghetti using chopsticks ? (in seconds)",
+          "answer": "72",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Jarod Dubois",
+          "subject": "World Records",
+          "challenge": "What is the Guinness World Record for the most Big Macs eaten in a lifetime ?",
+          "answer": "20000",
+          "theme": "IMPROBABLE"
+        }
+      ]
+    },
+    {
+      "author": "Jarod Dubois",
+      "subject": "Disney\u0027s Films",
+      "theme": "ENTERTAINMENT",
+      "questions": [
+        {
+          "author": "Jarod Dubois",
+          "subject": "Disney\u0027s Films",
+          "challenge": "Which animated film features a character named Simba and includes the song\"Circle of Life\" ?",
+          "answer": "The Lion King",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Jarod Dubois",
+          "subject": "Disney\u0027s Films",
+          "challenge": "In \"Moana,\" what is the name of the demi god who aids Moana on her journey ?",
+          "answer": "Maui",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Jarod Dubois",
+          "subject": "Disney\u0027s Films",
+          "challenge": "In \"Zootopia,\" what is the name of the bunny police officer and the main character ?",
+          "answer": "Judy",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Jarod Dubois",
+          "subject": "Disney\u0027s Films",
+          "challenge": "In various Disney films, what term is commonly used for a magical or enchanted object that plays a significant role in the storyline ?",
+          "answer": "Artifact",
+          "theme": "ENTERTAINMENT"
+        }
+      ]
+    },
+    {
+      "author": "Jarod Dubois",
+      "subject": "Marvel Universe",
+      "theme": "ENTERTAINMENT",
+      "questions": [
+        {
+          "author": "Jarod Dubois",
+          "subject": "Marvel Universe",
+          "challenge": "In \"Black Panther,\" what is the fictional and technologically advanced African nation that T\u0027Challa rules ?",
+          "answer": "Wakanda",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Jarod Dubois",
+          "subject": "Marvel Universe",
+          "challenge": "In the Marvel Cinematic Universe, what is the name of Thor\u0027s enchanted hammer ?",
+          "answer": "Mjolnir",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Jarod Dubois",
+          "subject": "Marvel Universe",
+          "challenge": "In the Marvel Cinematic Universe, what is the name of Tony Stark\u0027s AI system that assists him in his superhero endeavors ?",
+          "answer": "JARVIS",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Jarod Dubois",
+          "subject": "Marvel Universe",
+          "challenge": "What is the extraterrestrial, world-eating entity that serves as one of the most formidable villains in Marvel Comics ?",
+          "answer": "Galactus",
+          "theme": "ENTERTAINMENT"
+        }
+      ]
+    },
+    {
+      "author": "Anita",
+      "subject": "Hair",
+      "theme": "IMPROBABLE",
+      "questions": [
+        {
+          "author": "Anita",
+          "subject": "Hair",
+          "challenge": "What is the rarest hair color in the world?",
+          "answer": "Red hair",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Anita",
+          "subject": "Hair",
+          "challenge": "How many hairs does a person lose on average per day, 10 to 50, 50 to 100 or 100 to 200?",
+          "answer": "50 to 100",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Anita",
+          "subject": "Hair",
+          "challenge": "What is the main component of hair?",
+          "answer": "Keratin",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Anita",
+          "subject": "Hair",
+          "challenge": "What is the scientific name for fear of hair?",
+          "answer": "Trichophobia",
+          "theme": "IMPROBABLE"
+        }
+      ]
+    },
+    {
+      "author": "Anita",
+      "subject": "Fruit",
+      "theme": "IMPROBABLE",
+      "questions": [
+        {
+          "author": "Anita",
+          "subject": "Fruit",
+          "challenge": "What color is an unripe banana?",
+          "answer": "Green",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Anita",
+          "subject": "Fruit",
+          "challenge": "What exotic fruit most closely resembles a pine cone?",
+          "answer": "Pineapple",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Anita",
+          "subject": "Fruit",
+          "challenge": "Which of these three fruits contains fat : kiwi, avocado or cherry?",
+          "answer": "Avocado",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Anita",
+          "subject": "Fruit",
+          "challenge": "What are the little seed things on strawberries called?",
+          "answer": "Achenes",
+          "theme": "IMPROBABLE"
+        }
+      ]
+    },
+    {
+      "author": "Anita",
+      "subject": "Animation",
+      "theme": "ENTERTAINMENT",
+      "questions": [
+        {
+          "author": "Anita",
+          "subject": "Animation",
+          "challenge": "What is the name of the main character in the animated film \"The Lion King\"?",
+          "answer": "Simba",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Anita",
+          "subject": "Animation",
+          "challenge": "Which animate studio is behind films like \"Toy Story\" or \"Cars\"?",
+          "answer": "Pixar Animation Studios",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Anita",
+          "subject": "Animation",
+          "challenge": "Who directed the animated film \"Wall-E\"?",
+          "answer": "Andrew Stanton",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Anita",
+          "subject": "Animation",
+          "challenge": "What land are the tiny dinosaurs trying to get to in \"The Land Before Time\"?",
+          "answer": "The Great Valley",
+          "theme": "ENTERTAINMENT"
+        }
+      ]
+    },
+    {
+      "author": "Anita",
+      "subject": "Famous Movies",
+      "theme": "ENTERTAINMENT",
+      "questions": [
+        {
+          "author": "Anita",
+          "subject": "Famous Movies",
+          "challenge": "Which actor plays the male lead, Jack Dawson, in Titanic?",
+          "answer": "Leonardo DiCaprio",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Anita",
+          "subject": "Famous Movies",
+          "challenge": "Who directed the movie \"Jurassic Park\"?",
+          "answer": "Steven Spielberg",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Anita",
+          "subject": "Famous Movies",
+          "challenge": "What are the names of the two people behind Ghostface in Scream?",
+          "answer": "Billy and Stu",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Anita",
+          "subject": "Famous Movies",
+          "challenge": "When was the first Mission : Impossible movie released?",
+          "answer": "1996",
+          "theme": "ENTERTAINMENT"
+        }
+      ]
+    },
+    {
+      "author": "Anita",
+      "subject": "Exceptions",
+      "theme": "INFORMATICS",
+      "questions": [
+        {
+          "author": "Anita",
+          "subject": "Exceptions",
+          "challenge": "What keyword is used to explicitly raise an exception?",
+          "answer": "Throw",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Anita",
+          "subject": "Exceptions",
+          "challenge": "A method can declare several exceptions in its signature. True or false?",
+          "answer": "True",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Anita",
+          "subject": "Exceptions",
+          "challenge": "What are the basics blocks used for exception handling in Java?",
+          "answer": "Try, catch and finally",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Anita",
+          "subject": "Exceptions",
+          "challenge": "Is it possible to specify multiple exceptions in a single catch clause?",
+          "answer": "Yes",
+          "theme": "INFORMATICS"
+        }
+      ]
+    },
+    {
+      "author": "Anita",
+      "subject": "Object comparison methods",
+      "theme": "INFORMATICS",
+      "questions": [
+        {
+          "author": "Anita",
+          "subject": "Object comparison methods",
+          "challenge": "What are the two object comparison methods in Java?",
+          "answer": "equals and hashCode",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Anita",
+          "subject": "Object comparison methods",
+          "challenge": "Is it possible to override equals() without overriding hashCode() in a Java class?",
+          "answer": "Yes",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Anita",
+          "subject": "Object comparison methods",
+          "challenge": "In HashMap, equals() method is used to compare the values of stored objects. True or false?",
+          "answer": "False",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Anita",
+          "subject": "Object comparison methods",
+          "challenge": "In HashSet, why is equals() method used to compare elements?",
+          "answer": "To avoid dupplicates",
+          "theme": "INFORMATICS"
+        }
+      ]
+    },
+    {
+      "author": "Anita",
+      "subject": "Solar system",
+      "theme": "EDUCATION",
+      "questions": [
+        {
+          "author": "Anita",
+          "subject": "Solar system",
+          "challenge": "How many planets make up our solar system?",
+          "answer": "8",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Anita",
+          "subject": "Solar system",
+          "challenge": "What is the closest planet to the Sun?",
+          "answer": "Mercury",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Anita",
+          "subject": "Solar system",
+          "challenge": "What is the largest planet in the solar system?",
+          "answer": "Jupiter",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Anita",
+          "subject": "Solar system",
+          "challenge": "What is the average temperature of the planet Venus?",
+          "answer": "About 465 degrees Celcius",
+          "theme": "EDUCATION"
+        }
+      ]
+    },
+    {
+      "author": "Anita",
+      "subject": "Reptiles",
+      "theme": "EDUCATION",
+      "questions": [
+        {
+          "author": "Anita",
+          "subject": "Reptiles",
+          "challenge": "What reptile is known for the ability to change its body color?",
+          "answer": "Chameleon",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Anita",
+          "subject": "Reptiles",
+          "challenge": "What is the largest snake in the world?",
+          "answer": "Anaconda",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Anita",
+          "subject": "Reptiles",
+          "challenge": "Which reptile runs while standing?",
+          "answer": "Basilisk",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Anita",
+          "subject": "Reptiles",
+          "challenge": "Which reptile has saliva with deadly poison?",
+          "answer": "The Komodo Dragon",
+          "theme": "EDUCATION"
+        }
+      ]
+    },
+    {
+      "author": "Sebastian",
+      "subject": "Geography of Europe",
+      "theme": "EDUCATION",
+      "questions": [
+        {
+          "author": "Sebastian",
+          "subject": "Geography of Europe",
+          "challenge": "What is the capital city of Austria? ",
+          "answer": "Vienna",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Sebastian",
+          "subject": "Geography of Europe",
+          "challenge": "What is the highest peak in the Alps Mountain range? ",
+          "answer": "Mont Blanc",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Sebastian",
+          "subject": "Geography of Europe",
+          "challenge": "Which European country has the northernmost point of the mainland?",
+          "answer": "Norway",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Sebastian",
+          "subject": "Geography of Europe",
+          "challenge": "Which countries are connected by the Brenner Pass?",
+          "answer": "Italy and Austria",
+          "theme": "EDUCATION"
+        }
+      ]
+    },
+    {
+      "author": "Sebastian",
+      "subject": "Tennis",
+      "theme": "ENTERTAINMENT",
+      "questions": [
+        {
+          "author": "Sebastian",
+          "subject": "Tennis",
+          "challenge": "What is the name of the most famous Spanish tennis player?",
+          "answer": "Nadal",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Sebastian",
+          "subject": "Tennis",
+          "challenge": "What is the name of the famous tennis tournament annually held in England on grass courts?",
+          "answer": "Wimbledon",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Sebastian",
+          "subject": "Tennis",
+          "challenge": "What is the term used in tennis to describe a point won without the opponent touching the ball?",
+          "answer": "Ace",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Sebastian",
+          "subject": "Tennis",
+          "challenge": "Who holds the record for the most “Grand Slam” singles titles won by a female player?(Full name)",
+          "answer": "Margaret Court",
+          "theme": "ENTERTAINMENT"
+        }
+      ]
+    },
+    {
+      "author": "Sebastian",
+      "subject": "Tv shows",
+      "theme": "ENTERTAINMENT",
+      "questions": [
+        {
+          "author": "Sebastian",
+          "subject": "Tv shows",
+          "challenge": "What is the name of the animated TV show featuring a yellow family living in Springfield?",
+          "answer": "Simpsons",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Sebastian",
+          "subject": "Tv shows",
+          "challenge": "Which TV show follows the lives of a group of six friends living in New York city?",
+          "answer": "Friends",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Sebastian",
+          "subject": "Tv shows",
+          "challenge": "In “Stranger Things” what is the name of the parallel dimension?",
+          "answer": "Upside down",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Sebastian",
+          "subject": "Tv shows",
+          "challenge": "Who directed the trilogy of Batman films, consisting of “Batman Begins”, “The Dark Knight”, and “The dark Knight Rises”?",
+          "answer": "Christopher Nolan",
+          "theme": "ENTERTAINMENT"
+        }
+      ]
+    },
+    {
+      "author": "Sebastian",
+      "subject": "Red Bull",
+      "theme": "IMPROBABLE",
+      "questions": [
+        {
+          "author": "Sebastian",
+          "subject": "Red Bull",
+          "challenge": "Which animal is commonly associated with the Red Bull logo?",
+          "answer": "Bull",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Sebastian",
+          "subject": "Red Bull",
+          "challenge": "What is the tagline used in Red Bull’s marketing campaigns?",
+          "answer": "Red Bull gives you wings",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Sebastian",
+          "subject": "Red Bull",
+          "challenge": "Who became the youngest Formula1 World Champion in 2021, driving for Red Bull Racing?(full name)",
+          "answer": "Max Verstappen",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Sebastian",
+          "subject": "Red Bull",
+          "challenge": "In which year was Red Bull founded?",
+          "answer": "1987",
+          "theme": "IMPROBABLE"
+        }
+      ]
+    },
+    {
+      "author": "Sebastian",
+      "subject": "Logo",
+      "theme": "IMPROBABLE",
+      "questions": [
+        {
+          "author": "Sebastian",
+          "subject": "Logo",
+          "challenge": "What is the name of the company that has a logo featuring a partially   eaten apple with bite taken out of it?",
+          "answer": "Apple",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Sebastian",
+          "subject": "Logo",
+          "challenge": "What is the name of the company that has a logo featuring a smiling arrow pointing from the “A” to the “Z” in the word?",
+          "answer": "Amazon",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Sebastian",
+          "subject": "Logo",
+          "challenge": "What is the name of the company that has a logo consisting of a stylized letter” M” formed by two yellow arches?",
+          "answer": "Mc Donald’s",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Sebastian",
+          "subject": "Logo",
+          "challenge": "What is the name of the company that has a logo featuring four coloured squares arranged in a window-like formation, each square representing a different colour: green, blue, yellow and red?",
+          "answer": "Microsoft",
+          "theme": "IMPROBABLE"
+        }
+      ]
+    },
+    {
+      "author": "Sebastian",
+      "subject": "Class diagram",
+      "theme": "INFORMATICS",
+      "questions": [
+        {
+          "author": "Sebastian",
+          "subject": "Class diagram",
+          "challenge": "True or false?If a method is abstract does the class become automatically abstract?",
+          "answer": "True",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Sebastian",
+          "subject": "Class diagram",
+          "challenge": "What is the role of an association in a class diagram?",
+          "answer": "Show relationship",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Sebastian",
+          "subject": "Class diagram",
+          "challenge": "What is the primary purpose of a class diagram?",
+          "answer": "Visualize structure",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Sebastian",
+          "subject": "Class diagram",
+          "challenge": "What is the purpose of a multiplicity notation in a class diagram?",
+          "answer": "Cardinality",
+          "theme": "INFORMATICS"
+        }
+      ]
+    },
+    {
+      "author": "Sebastian",
+      "subject": "Design patterns",
+      "theme": "INFORMATICS",
+      "questions": [
+        {
+          "author": "Sebastian",
+          "subject": "Design patterns",
+          "challenge": "In which category of design patterns is the state?",
+          "answer": "Behavioral",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Sebastian",
+          "subject": "Design patterns",
+          "challenge": "What is the name of a creational design pattern used to ensure a class that has only one instance?",
+          "answer": "Singleton",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Sebastian",
+          "subject": "Design patterns",
+          "challenge": "True or false? Does the Observer design pattern belong to the structural category?",
+          "answer": "False",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Sebastian",
+          "subject": "Design patterns",
+          "challenge": "True or false? Does the strategy design pattern define a family of algorithms, encapsulate each one, and make them interchangeable?",
+          "answer": "True",
+          "theme": "INFORMATICS"
+        }
+      ]
+    },
+    {
+      "author": "Hubert Maxence",
+      "subject": "Natural Phenomena",
+      "theme": "IMPROBABLE",
+      "questions": [
+        {
+          "author": "Hubert Maxence",
+          "subject": "Natural Phenomena",
+          "challenge": "What phenomenon causes flashes and detonations in the sky during a thunderstorm?",
+          "answer": "lightning",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Hubert Maxence",
+          "subject": "Natural Phenomena",
+          "challenge": "What phenomenon creates columns of light in the night sky?",
+          "answer": "aurora borealis",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Hubert Maxence",
+          "subject": "Natural Phenomena",
+          "challenge": "What natural phenomenon emits light without heat?",
+          "answer": "bioluminescence",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Hubert Maxence",
+          "subject": "Natural Phenomena",
+          "challenge": "What type of cloud is known to be roll-shaped?",
+          "answer": "arcus",
+          "theme": "IMPROBABLE"
+        }
+      ]
+    },
+    {
+      "author": "Hubert Maxence",
+      "subject": "Movies and Video Games",
+      "theme": "ENTERTAINMENT",
+      "questions": [
+        {
+          "author": "Hubert Maxence",
+          "subject": "Movies and Video Games",
+          "challenge": "What is the name of the main character in the video game series \"The Legend of Zelda\"?",
+          "answer": "Link",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Hubert Maxence",
+          "subject": "Movies and Video Games",
+          "challenge": "Who directed the film \"Jurassic Park\"?",
+          "answer": "Steven Spielberg",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Hubert Maxence",
+          "subject": "Movies and Video Games",
+          "challenge": "What is the name of the Japanese role-playing video game franchise, developed by Square Enix, which began in 1987?",
+          "answer": "Final Fantasy",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Hubert Maxence",
+          "subject": "Movies and Video Games",
+          "challenge": "Which film won the Oscar for Best Picture in 2020?",
+          "answer": "Parasite",
+          "theme": "ENTERTAINMENT"
+        }
+      ]
+    },
+    {
+      "author": "Hubert Maxence",
+      "subject": "Popular Culture",
+      "theme": "ENTERTAINMENT",
+      "questions": [
+        {
+          "author": "Hubert Maxence",
+          "subject": "Popular Culture",
+          "challenge": "Who created the \"Star Wars\" film saga?",
+          "answer": "George Lucas",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Hubert Maxence",
+          "subject": "Popular Culture",
+          "challenge": "What is the name of the director of the film \"Inception\"?",
+          "answer": "Christopher Nolan",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Hubert Maxence",
+          "subject": "Popular Culture",
+          "challenge": "What is the name of the first episode in the Arcane series?",
+          "answer": "Welcome to the Playground",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Hubert Maxence",
+          "subject": "Popular Culture",
+          "challenge": "What is the name of the first film directed by Quentin Tarantino?",
+          "answer": "Reservoir Dogs",
+          "theme": "ENTERTAINMENT"
+        }
+      ]
+    },
+    {
+      "author": "Hubert Maxence",
+      "subject": "Milestones",
+      "theme": "EDUCATION",
+      "questions": [
+        {
+          "author": "Hubert Maxence",
+          "subject": "Milestones",
+          "challenge": "Which Roman emperor founded the first Roman public schools?",
+          "answer": "Charlemagne",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Hubert Maxence",
+          "subject": "Milestones",
+          "challenge": "Which Greek philosopher founded the Academy in Athens?",
+          "answer": "Platon",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Hubert Maxence",
+          "subject": "Milestones",
+          "challenge": "Which French law of 1882 established secular, free and compulsory schooling?",
+          "answer": "Ferry law",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Hubert Maxence",
+          "subject": "Milestones",
+          "challenge": "What is the first university in Europe?",
+          "answer": "University of Bologna",
+          "theme": "EDUCATION"
+        }
+      ]
+    },
+    {
+      "author": "Hubert Maxence",
+      "subject": "Educational Inventions",
+      "theme": "EDUCATION",
+      "questions": [
+        {
+          "author": "Hubert Maxence",
+          "subject": "Educational Inventions",
+          "challenge": "Who invented the first Braille coding system for the blind?",
+          "answer": "Louis Braille",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Hubert Maxence",
+          "subject": "Educational Inventions",
+          "challenge": "Who invented the first mechanical calculator?",
+          "answer": "Blaise Pascal",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Hubert Maxence",
+          "subject": "Educational Inventions",
+          "challenge": "Who invented binary?",
+          "answer": "Gottfried Leibniz",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Hubert Maxence",
+          "subject": "Educational Inventions",
+          "challenge": "Who invented the microscope?",
+          "answer": "Zacharias Janssen",
+          "theme": "EDUCATION"
+        }
+      ]
+    },
+    {
+      "author": "Reynaert Robin",
+      "subject": "Geography",
+      "theme": "IMPROBABLE",
+      "questions": [
+        {
+          "author": "Reynaert Robin",
+          "subject": "Geography",
+          "challenge": "What are the names of the two Niles?",
+          "answer": "The White Nile and the Blue Nile",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Reynaert Robin",
+          "subject": "Geography",
+          "challenge": "Which country has the longest border with France?",
+          "answer": "Brazil",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Reynaert Robin",
+          "subject": "Geography",
+          "challenge": "How high is the Maldives above ocean level?",
+          "answer": "1.5 meters",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Reynaert Robin",
+          "subject": "Geography",
+          "challenge": "Which country cannot count its number of islands?",
+          "answer": "Indonesia",
+          "theme": "IMPROBABLE"
+        }
+      ]
+    },
+    {
+      "author": "Reynaert Robin",
+      "subject": "Food",
+      "theme": "IMPROBABLE",
+      "questions": [
+        {
+          "author": "Reynaert Robin",
+          "subject": "Food",
+          "challenge": "What\u0027s a spaghetto?",
+          "answer": "The singular of spaghetti",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Reynaert Robin",
+          "subject": "Food",
+          "challenge": "How much time passed between the invention of the can and the can opener?",
+          "answer": "60 years",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Reynaert Robin",
+          "subject": "Food",
+          "challenge": "What is the most stolen food in the world?",
+          "answer": "Cheese",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Reynaert Robin",
+          "subject": "Food",
+          "challenge": "What do you call fear of cooking?",
+          "answer": "Mageirocophobia",
+          "theme": "IMPROBABLE"
+        }
+      ]
+    },
+    {
+      "author": "Reynaert Robin",
+      "subject": "Sports",
+      "theme": "ENTERTAINMENT",
+      "questions": [
+        {
+          "author": "Reynaert Robin",
+          "subject": "Sports",
+          "challenge": "What is Usain Bolt\u0027s nationality?",
+          "answer": "Jamaican",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Reynaert Robin",
+          "subject": "Sports",
+          "challenge": "Which people created the Olympic Games?",
+          "answer": "The Greeks",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Reynaert Robin",
+          "subject": "Sports",
+          "challenge": "What does karate mean?",
+          "answer": "Empty hand",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Reynaert Robin",
+          "subject": "Sports",
+          "challenge": "Where were the first modern Olympic Games held in 1896?",
+          "answer": "In Athens",
+          "theme": "ENTERTAINMENT"
+        }
+      ]
+    },
+    {
+      "author": "Reynaert Robin",
+      "subject": "Games",
+      "theme": "ENTERTAINMENT",
+      "questions": [
+        {
+          "author": "Reynaert Robin",
+          "subject": "Games",
+          "challenge": "Is every game of Solitaire winnable?",
+          "answer": "No",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Reynaert Robin",
+          "subject": "Games",
+          "challenge": "What continent does chess come from?",
+          "answer": "From Asia",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Reynaert Robin",
+          "subject": "Games",
+          "challenge": "Where does mahjong come from?",
+          "answer": "From China",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Reynaert Robin",
+          "subject": "Games",
+          "challenge": "Who was called Mikado?",
+          "answer": "The emperor of Japan",
+          "theme": "ENTERTAINMENT"
+        }
+      ]
+    },
+    {
+      "author": "Reynaert Robin",
+      "subject": "Computer analysis",
+      "theme": "INFORMATICS",
+      "questions": [
+        {
+          "author": "Reynaert Robin",
+          "subject": "Computer analysis",
+          "challenge": "How many parts are there in a class representation in a class diagram?",
+          "answer": "3",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Reynaert Robin",
+          "subject": "Computer analysis",
+          "challenge": "What programming paradigm is needed to implement design patterns?",
+          "answer": "Object-oriented programming",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Reynaert Robin",
+          "subject": "Computer analysis",
+          "challenge": "What are the three types of design patterns?",
+          "answer": "Creational, structural, behavioral",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Reynaert Robin",
+          "subject": "Computer analysis",
+          "challenge": "What does UML stand for?",
+          "answer": "Unified modeling language",
+          "theme": "INFORMATICS"
+        }
+      ]
+    },
+    {
+      "author": "Reynaert Robin",
+      "subject": "Arts",
+      "theme": "EDUCATION",
+      "questions": [
+        {
+          "author": "Reynaert Robin",
+          "subject": "Arts",
+          "challenge": "Who is the painter behind the Mona Lisa?",
+          "answer": "Leonardo Da Vinci",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Reynaert Robin",
+          "subject": "Arts",
+          "challenge": "What is the name of the famous German composer born in 1756?",
+          "answer": "Wolfgang Amadeus Mozart",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Reynaert Robin",
+          "subject": "Arts",
+          "challenge": "What is Jan van Eyck known for?",
+          "answer": "The creation of oil painting",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Reynaert Robin",
+          "subject": "Arts",
+          "challenge": "What is the name of the statue of Augustus Caesar found in the city of Livia?",
+          "answer": "The Augustus of Prima Porta",
+          "theme": "EDUCATION"
+        }
+      ]
+    },
+    {
+      "author": "Reynaert Robin",
+      "subject": "Sciences",
+      "theme": "EDUCATION",
+      "questions": [
+        {
+          "author": "Reynaert Robin",
+          "subject": "Sciences",
+          "challenge": "What is the chemical symbol for Argon?",
+          "answer": "Ar",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Reynaert Robin",
+          "subject": "Sciences",
+          "challenge": "What is the force that allows objects to float on water?",
+          "answer": "Archimedes’ thrust",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Reynaert Robin",
+          "subject": "Sciences",
+          "challenge": "Which organization created anti-hydrogen atoms for the first time?",
+          "answer": "The CERN",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Reynaert Robin",
+          "subject": "Sciences",
+          "challenge": "What family do jellyfish belong to?",
+          "answer": "The cyaneidae",
+          "theme": "EDUCATION"
+        }
+      ]
+    },
+    {
+      "author": "Wattecamps Henri",
+      "subject": "Apple History",
+      "theme": "INFORMATICS",
+      "questions": [
+        {
+          "author": "Wattecamps Henri",
+          "subject": "Apple History",
+          "challenge": "Where is the Apple company based?",
+          "answer": "California",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Wattecamps Henri",
+          "subject": "Apple History",
+          "challenge": "Who is the famous founder of the company?",
+          "answer": "Steve Jobs",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Wattecamps Henri",
+          "subject": "Apple History",
+          "challenge": "From which iPhone was there no more button on the screen?",
+          "answer": "iPhone X",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Wattecamps Henri",
+          "subject": "Apple History",
+          "challenge": "What is the best-selling iPhone in history?",
+          "answer": "iPhone 6",
+          "theme": "INFORMATICS"
+        }
+      ]
+    },
+    {
+      "author": "Wattecamps Henri",
+      "subject": "Licenses and software",
+      "theme": "INFORMATICS",
+      "questions": [
+        {
+          "author": "Wattecamps Henri",
+          "subject": "Licenses and software",
+          "challenge": "What is the name of the known text editor of Microsoft?",
+          "answer": "Microsoft Word",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Wattecamps Henri",
+          "subject": "Licenses and software",
+          "challenge": "Which company produced photoshop photo editing software?",
+          "answer": "Adobe",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Wattecamps Henri",
+          "subject": "Licenses and software",
+          "challenge": "Which operating system needs a license?",
+          "answer": "Windows",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Wattecamps Henri",
+          "subject": "Licenses and software",
+          "challenge": "Which year did Microsoft release the first version of Windows?",
+          "answer": "1985",
+          "theme": "INFORMATICS"
+        }
+      ]
+    },
+    {
+      "author": "Wattecamps Henri",
+      "subject": "Cycling and Tour de France",
+      "theme": "ENTERTAINMENT",
+      "questions": [
+        {
+          "author": "Wattecamps Henri",
+          "subject": "Cycling and Tour de France",
+          "challenge": "Who is the 2023 Tour de France winner?",
+          "answer": "Jonas Vingegaard",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Wattecamps Henri",
+          "subject": "Cycling and Tour de France",
+          "challenge": "Where does the Tour usually finish?",
+          "answer": "Champs-Elysées",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Wattecamps Henri",
+          "subject": "Cycling and Tour de France",
+          "challenge": "What is the last mountain massif after the Alps and the central massif, where the tour goes every year?",
+          "answer": "The Pyrénées",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Wattecamps Henri",
+          "subject": "Cycling and Tour de France",
+          "challenge": "Which Belgian cyclist took the green jersey in 2022?",
+          "answer": "Wout Van Aert",
+          "theme": "ENTERTAINMENT"
+        }
+      ]
+    },
+    {
+      "author": "Wattecamps Henri",
+      "subject": "Belgian Celebrities",
+      "theme": "ENTERTAINMENT",
+      "questions": [
+        {
+          "author": "Wattecamps Henri",
+          "subject": "Belgian Celebrities",
+          "challenge": "Who sings \"papaoutai\"?",
+          "answer": "Stromae",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Wattecamps Henri",
+          "subject": "Belgian Celebrities",
+          "challenge": "What is the name of the family known for its 4x400m athletes?",
+          "answer": "Borlée",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Wattecamps Henri",
+          "subject": "Belgian Celebrities",
+          "challenge": "Who played Brutus in Asterix at the Olympics in 2008?",
+          "answer": "Benoit Poelvoorde",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Wattecamps Henri",
+          "subject": "Belgian Celebrities",
+          "challenge": "Who painted a famous painting with a man with an apple in place of his head?",
+          "answer": "René Magritte",
+          "theme": "ENTERTAINMENT"
+        }
+      ]
+    },
+    {
+      "author": "Wattecamps Henri",
+      "subject": "Records",
+      "theme": "IMPROBABLE",
+      "questions": [
+        {
+          "author": "Wattecamps Henri",
+          "subject": "Records",
+          "challenge": "Who holds the 100m record?",
+          "answer": "Usain Bolt",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Wattecamps Henri",
+          "subject": "Records",
+          "challenge": "Which film has the box office record?",
+          "answer": "Avatar",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Wattecamps Henri",
+          "subject": "Records",
+          "challenge": "How old was the oldest person in the world?",
+          "answer": "122",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Wattecamps Henri",
+          "subject": "Records",
+          "challenge": "What is the name of the track where cars break speed records?",
+          "answer": "Bonneville Speedway",
+          "theme": "IMPROBABLE"
+        }
+      ]
+    },
+    {
+      "author": "Wattecamps Henri",
+      "subject": "Short-time successes",
+      "theme": "IMPROBABLE",
+      "questions": [
+        {
+          "author": "Wattecamps Henri",
+          "subject": "Short-time successes",
+          "challenge": "What is the name of the fidget toy that everybody, even adults, loved to spin?",
+          "answer": "Hand Spinner",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Wattecamps Henri",
+          "subject": "Short-time successes",
+          "challenge": "Who sings \"Gangnam Style\"?",
+          "answer": "PSY",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Wattecamps Henri",
+          "subject": "Short-time successes",
+          "challenge": "What is the name of the British boy band who were superstars for all the young girls in the 2010’s?",
+          "answer": "One Direction",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Wattecamps Henri",
+          "subject": "Short-time successes",
+          "challenge": "Who played in a famous magic saga of films and was the principal actor, and also played in Now You See Me 2?",
+          "answer": "Daniel Radcliffe",
+          "theme": "IMPROBABLE"
+        }
+      ]
+    },
+    {
+      "author": "Wattecamps Henri",
+      "subject": "Geographic places",
+      "theme": "EDUCATION",
+      "questions": [
+        {
+          "author": "Wattecamps Henri",
+          "subject": "Geographic places",
+          "challenge": "In which country is the Taj Mahal located?",
+          "answer": "India",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Wattecamps Henri",
+          "subject": "Geographic places",
+          "challenge": "Which countries are divided by the Himalaya?",
+          "answer": "China and Nepal",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Wattecamps Henri",
+          "subject": "Geographic places",
+          "challenge": "What is the name of the island where the colossus of Rhodes is located?",
+          "answer": "Crete",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Wattecamps Henri",
+          "subject": "Geographic places",
+          "challenge": "Where is the \"Hudson bay\"?",
+          "answer": "Canada",
+          "theme": "EDUCATION"
+        }
+      ]
+    },
+    {
+      "author": "Wattecamps Henri",
+      "subject": "Gods in Athens or in Rome",
+      "theme": "EDUCATION",
+      "questions": [
+        {
+          "author": "Wattecamps Henri",
+          "subject": "Gods in Athens or in Rome",
+          "challenge": "In Athens, who is called \"Jupiter\" in Rome?",
+          "answer": "Zeus",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Wattecamps Henri",
+          "subject": "Gods in Athens or in Rome",
+          "challenge": "In Rome, who is called \"Ares\" in Athens?",
+          "answer": "Mars",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Wattecamps Henri",
+          "subject": "Gods in Athens or in Rome",
+          "challenge": "In Athens, who is called \"Venus\" in Rome?",
+          "answer": "Aphrodite",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Wattecamps Henri",
+          "subject": "Gods in Athens or in Rome",
+          "challenge": "In Rome, who is called \"Artemis\" in Athens?",
+          "answer": "Diane",
+          "theme": "EDUCATION"
+        }
+      ]
+    },
+    {
+      "author": "Erdem",
+      "subject": "Cinema",
+      "theme": "ENTERTAINMENT",
+      "questions": [
+        {
+          "author": "Erdem",
+          "subject": "Cinema",
+          "challenge": "What is the name of the famous family whose characters are yellow?",
+          "answer": "The Simpsons",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Erdem",
+          "subject": "Cinema",
+          "challenge": "Who directed the film \"Inception\"?",
+          "answer": "Christopher Nolan",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Erdem",
+          "subject": "Cinema",
+          "challenge": "How many seasons does the TV series \"Breaking Bad\" have?",
+          "answer": "5",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Erdem",
+          "subject": "Cinema",
+          "challenge": "Who has won the most Oscars for best director?",
+          "answer": "John Ford",
+          "theme": "ENTERTAINMENT"
+        }
+      ]
+    },
+    {
+      "author": "Erdem",
+      "subject": "Literature",
+      "theme": "ENTERTAINMENT",
+      "questions": [
+        {
+          "author": "Erdem",
+          "subject": "Literature",
+          "challenge": "Who wrote the Harry Potter books?",
+          "answer": "J. K. Rowling",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Erdem",
+          "subject": "Literature",
+          "challenge": "Who wrote the novel \"1984\"?",
+          "answer": "George Orwell",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Erdem",
+          "subject": "Literature",
+          "challenge": "Who is the author of the fantasy series \"The Chronicles of Narnia\"?",
+          "answer": "C. S. Lewis ",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Erdem",
+          "subject": "Literature",
+          "challenge": "Who wrote the epic poem \"Paradise Lost\", which tells the story of the Fall of Man and the expulsion of Adam and Eve from the Garden of Eden?",
+          "answer": "John Milton",
+          "theme": "ENTERTAINMENT"
+        }
+      ]
+    },
+    {
+      "author": "Erdem",
+      "subject": "Java",
+      "theme": "INFORMATICS",
+      "questions": [
+        {
+          "author": "Erdem",
+          "subject": "Java",
+          "challenge": "What is Java (in two words)?",
+          "answer": "Programming language",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Erdem",
+          "subject": "Java",
+          "challenge": "Complete : \"An interface is made up of ... methods.\"",
+          "answer": "Abstracts",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Erdem",
+          "subject": "Java",
+          "challenge": "Find the general term that is closest to \"exception\".",
+          "answer": "Error",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Erdem",
+          "subject": "Java",
+          "challenge": "Complete : \"ArrayList and Map are two types of … .\"",
+          "answer": "Collections",
+          "theme": "INFORMATICS"
+        }
+      ]
+    },
+    {
+      "author": "Erdem",
+      "subject": "Name of cheese",
+      "theme": "IMPROBABLE",
+      "questions": [
+        {
+          "author": "Erdem",
+          "subject": "Name of cheese",
+          "challenge": "Which French cheese is famous for its creamy texture and mild flavor?",
+          "answer": "Camembert",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Erdem",
+          "subject": "Name of cheese",
+          "challenge": "Which cheese with blue veining and intense flavor takes its name from the region where it is produced in France?",
+          "answer": "Roquefort",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Erdem",
+          "subject": "Name of cheese",
+          "challenge": "Which English cheese, often called the \"king of cheeses\", is protected by a protected designation of origin?",
+          "answer": "Stilton",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Erdem",
+          "subject": "Name of cheese",
+          "challenge": "Which Swiss cheese, whose name means \"gruyere from the old country\", is protected by a protected designation of origin?",
+          "answer": "Vacherin Mont D\u0027Or",
+          "theme": "IMPROBABLE"
+        }
+      ]
+    },
+    {
+      "author": "Erdem",
+      "subject": "Type of bag",
+      "theme": "IMPROBABLE",
+      "questions": [
+        {
+          "author": "Erdem",
+          "subject": "Type of bag",
+          "challenge": "What type of bag is often used to carry sports equipment such as footballs and trainers?",
+          "answer": "Sport bag",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Erdem",
+          "subject": "Type of bag",
+          "challenge": "What type of bag is primarily used by students to carry their books and school supplies to school?",
+          "answer": "Backpack",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Erdem",
+          "subject": "Type of bag",
+          "challenge": "What type of bag is commonly used for carrying clothes and other personal belongings during travel?",
+          "answer": "Suitcase",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Erdem",
+          "subject": "Type of bag",
+          "challenge": "What is the name of the traditional-style bag, usually made of leather, with a wide shoulder strap, often worn diagonally across the body, and popular with urban messengers and travellers?",
+          "answer": "Messenger bag",
+          "theme": "IMPROBABLE"
+        }
+      ]
+    },
+    {
+      "author": "Rayane",
+      "subject": " Flower Names",
+      "theme": "IMPROBABLE",
+      "questions": [
+        {
+          "author": "Rayane",
+          "subject": " Flower Names",
+          "challenge": "What is the name of Japan\u0027s national flower?",
+          "answer": "Sakura",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Rayane",
+          "subject": " Flower Names",
+          "challenge": "What is the name of the flower symbolizing love and passion?",
+          "answer": "Rose",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Rayane",
+          "subject": " Flower Names",
+          "challenge": "What is the name of Scotland\u0027s emblematic flower?",
+          "answer": "Thistle",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Rayane",
+          "subject": " Flower Names",
+          "challenge": "What is the world\u0027s most sold flower?",
+          "answer": "The rose",
+          "theme": "IMPROBABLE"
+        }
+      ]
+    },
+    {
+      "author": "Rayane",
+      "subject": "Strange Inventions",
+      "theme": "IMPROBABLE",
+      "questions": [
+        {
+          "author": "Rayane",
+          "subject": "Strange Inventions",
+          "challenge": "What is the instrument used to measure elapsed time in a bedroom?",
+          "answer": "Alarm clock",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Rayane",
+          "subject": "Strange Inventions",
+          "challenge": "What is the electronic device used to detect lies?",
+          "answer": "Lie detector",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Rayane",
+          "subject": "Strange Inventions",
+          "challenge": "What is the name of the instrument designed to measure wind force?",
+          "answer": "Anemometer",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Rayane",
+          "subject": "Strange Inventions",
+          "challenge": "What is the device invented to allow people to speak without being heard?",
+          "answer": "Voice modulator",
+          "theme": "IMPROBABLE"
+        }
+      ]
+    },
+    {
+      "author": "Rayane",
+      "subject": "Music",
+      "theme": "ENTERTAINMENT",
+      "questions": [
+        {
+          "author": "Rayane",
+          "subject": "Music",
+          "challenge": " What is the name of the famous British band known for the song \"Bohemian Rhapsody\"?",
+          "answer": "Queen",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Rayane",
+          "subject": "Music",
+          "challenge": "Who sang the song \"Thriller\"?",
+          "answer": "Michael Jackson",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Rayane",
+          "subject": "Music",
+          "challenge": "What is the name of the famous guitarist nicknamed \"Slowhand\"?",
+          "answer": "Eric Clapton",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Rayane",
+          "subject": "Music",
+          "challenge": "Who wrote the song \"Like a Rolling Stone\"?",
+          "answer": "Bob Dylan",
+          "theme": "ENTERTAINMENT"
+        }
+      ]
+    },
+    {
+      "author": "Rayane",
+      "subject": "Films",
+      "theme": "ENTERTAINMENT",
+      "questions": [
+        {
+          "author": "Rayane",
+          "subject": "Films",
+          "challenge": "What is the name of the animated film featuring a rat dreaming of becoming a chef?",
+          "answer": "ratatouille",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Rayane",
+          "subject": "Films",
+          "challenge": "Who directed the film \"The Godfather\"?",
+          "answer": "Francis Ford Coppola",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Rayane",
+          "subject": "Films",
+          "challenge": "What is the title of the first film in \"The Lord of the Rings\" trilogy?",
+          "answer": "The Fellowship of the Ring",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Rayane",
+          "subject": "Films",
+          "challenge": "Who won the Academy Award for Best Actor for his role in the film \"Forest Gump\"?",
+          "answer": "Tom Hanks",
+          "theme": "ENTERTAINMENT"
+        }
+      ]
+    },
+    {
+      "author": "Rayane",
+      "subject": "Internet",
+      "theme": "INFORMATICS",
+      "questions": [
+        {
+          "author": "Rayane",
+          "subject": "Internet",
+          "challenge": "What is the most used web browser in the world?",
+          "answer": "google chrome",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Rayane",
+          "subject": "Internet",
+          "challenge": "What protocol is used to send emails?",
+          "answer": "smtp",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Rayane",
+          "subject": "Internet",
+          "challenge": "What is the term used to describe the unique address of a website on the Internet?",
+          "answer": "url",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Rayane",
+          "subject": "Internet",
+          "challenge": "What is the name of the technology that allows storing data online and accessing it from anywhere?",
+          "answer": "cloud computing",
+          "theme": "INFORMATICS"
+        }
+      ]
+    },
+    {
+      "author": "Rayane",
+      "subject": "programming",
+      "theme": "INFORMATICS",
+      "questions": [
+        {
+          "author": "Rayane",
+          "subject": "programming",
+          "challenge": "Which programming language is often used to create interactive web pages?",
+          "answer": "JavaScript",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Rayane",
+          "subject": "programming",
+          "challenge": "What is the name of the widely used JavaScript framework for building user interfaces?",
+          "answer": "React",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Rayane",
+          "subject": "programming",
+          "challenge": "What is the term used to describe a function that calls itself?",
+          "answer": "Recursion",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Rayane",
+          "subject": "programming",
+          "challenge": "What is the name of the method used to rearrange elements of an array in JavaScript?",
+          "answer": "sort()",
+          "theme": "INFORMATICS"
+        }
+      ]
+    },
+    {
+      "author": "Tristan",
+      "subject": "Network",
+      "theme": "INFORMATICS",
+      "questions": [
+        {
+          "author": "Tristan",
+          "subject": "Network",
+          "challenge": "What is the abbreviation for \"Local Area Network\"?",
+          "answer": "LAN",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Tristan",
+          "subject": "Network",
+          "challenge": "What is the name of the best-known type of volatile computer memory used by computers?",
+          "answer": "RAM",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Tristan",
+          "subject": "Network",
+          "challenge": "What is the set of rules that governs the format of data sent over the internet or any network?",
+          "answer": "IP",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Tristan",
+          "subject": "Network",
+          "challenge": "how many layers are there in the OSI model?",
+          "answer": "7",
+          "theme": "INFORMATICS"
+        }
+      ]
+    },
+    {
+      "author": "Tristan",
+      "subject": "Computer",
+      "theme": "INFORMATICS",
+      "questions": [
+        {
+          "author": "Tristan",
+          "subject": "Computer",
+          "challenge": "what is the meaning of the letters in the word \"Universal Serial Bus\"?",
+          "answer": "USB",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Tristan",
+          "subject": "Computer",
+          "challenge": "what is the meaning of the letters in the word \"DNS\"?",
+          "answer": "Domain Name System",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Tristan",
+          "subject": "Computer",
+          "challenge": "what is the meaning of the letters in the word \"CPU\"?",
+          "answer": "Central Processing Unit",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Tristan",
+          "subject": "Computer",
+          "challenge": "What is the type of firmware used by computers to perform basic operations when booting the system?",
+          "answer": "BIOS",
+          "theme": "INFORMATICS"
+        }
+      ]
+    },
+    {
+      "author": "Tristan",
+      "subject": "Video Game",
+      "theme": "ENTERTAINMENT",
+      "questions": [
+        {
+          "author": "Tristan",
+          "subject": "Video Game",
+          "challenge": "What is the name of the famous plumber in red overalls?",
+          "answer": "Mario",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Tristan",
+          "subject": "Video Game",
+          "challenge": "How many tentacles does Doctor Octopus have in Marvel Spiderman?",
+          "answer": "4",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Tristan",
+          "subject": "Video Game",
+          "challenge": "How many pokémon are in the first generation?",
+          "answer": "151",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Tristan",
+          "subject": "Video Game",
+          "challenge": "What are the names of the zombies Umbrella sends to exterminate the protagonists in Resident Evil ?",
+          "answer": "Tyran",
+          "theme": "ENTERTAINMENT"
+        }
+      ]
+    },
+    {
+      "author": "Tristan",
+      "subject": "Marvel",
+      "theme": "ENTERTAINMENT",
+      "questions": [
+        {
+          "author": "Tristan",
+          "subject": "Marvel",
+          "challenge": "what is the name of the super hero in red and yellow armor?",
+          "answer": "Iron Man",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Tristan",
+          "subject": "Marvel",
+          "challenge": "What is the name of the team that protects the Earth?",
+          "answer": "Avengers",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Tristan",
+          "subject": "Marvel",
+          "challenge": "What\u0027s Drax the destroyer\u0027s weapon?",
+          "answer": "Dagger",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Tristan",
+          "subject": "Marvel",
+          "challenge": "what’s the name of Thor’s hammer?",
+          "answer": "Mjöllnir",
+          "theme": "ENTERTAINMENT"
+        }
+      ]
+    },
+    {
+      "author": "Tristan",
+      "subject": "Capital",
+      "theme": "EDUCATION",
+      "questions": [
+        {
+          "author": "Tristan",
+          "subject": "Capital",
+          "challenge": "What is the capital of France?",
+          "answer": "Paris",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Tristan",
+          "subject": "Capital",
+          "challenge": "What is the capital of Australia?",
+          "answer": "Camberra",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Tristan",
+          "subject": "Capital",
+          "challenge": "What is the capital of Argentina?",
+          "answer": "Buenos Aires",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Tristan",
+          "subject": "Capital",
+          "challenge": "What is the capital of Nigeria?",
+          "answer": "Abuja",
+          "theme": "EDUCATION"
+        }
+      ]
+    },
+    {
+      "author": "Tristan",
+      "subject": "Nutrition",
+      "theme": "EDUCATION",
+      "questions": [
+        {
+          "author": "Tristan",
+          "subject": "Nutrition",
+          "challenge": "What is the most famous dish in Italy?",
+          "answer": "Pizza",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Tristan",
+          "subject": "Nutrition",
+          "challenge": "What is the unity of nutrient energy",
+          "answer": "calorie",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Tristan",
+          "subject": "Nutrition",
+          "challenge": "How many levels does the food pyramid have?",
+          "answer": "7",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Tristan",
+          "subject": "Nutrition",
+          "challenge": "What is the purpose of fibre in the diet?",
+          "answer": "Digestion",
+          "theme": "EDUCATION"
+        }
+      ]
+    },
+    {
+      "author": "Tristan",
+      "subject": "Mixed colour",
+      "theme": "IMPROBABLE",
+      "questions": [
+        {
+          "author": "Tristan",
+          "subject": "Mixed colour",
+          "challenge": "What do you get by mixing Red and Green?",
+          "answer": "Yellow",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Tristan",
+          "subject": "Mixed colour",
+          "challenge": "What do you get by mixing Blue and Green?",
+          "answer": "Cyan",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Tristan",
+          "subject": "Mixed colour",
+          "challenge": "What do you get by mixing orange and black?",
+          "answer": "Brown",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Tristan",
+          "subject": "Mixed colour",
+          "challenge": "With what color can be mixed red to get eggplant color?",
+          "answer": "Blue",
+          "theme": "IMPROBABLE"
+        }
+      ]
+    },
+    {
+      "author": "Justin Ligny",
+      "subject": "History",
+      "theme": "INFORMATICS",
+      "questions": [
+        {
+          "author": "Justin Ligny",
+          "subject": "History",
+          "challenge": "In 1976, who founded Apple Computer Company?",
+          "answer": "Steve Jobs",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Justin Ligny",
+          "subject": "History",
+          "challenge": "Which computer company, founded in 1975 by Bill Gates and Paul Allen, played a crucial role in the popularization of micro-computers?",
+          "answer": "Microsoft",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Justin Ligny",
+          "subject": "History",
+          "challenge": "Due to his significant contributions to the development of automata theory, who is considered the father of modern computing?",
+          "answer": "Alan Turing",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Justin Ligny",
+          "subject": "History",
+          "challenge": "What is the name of the encryption machine used by Nazi Germany during World War II to exchange messages?",
+          "answer": "Enigma",
+          "theme": "INFORMATICS"
+        }
+      ]
+    },
+    {
+      "author": "Justin Ligny",
+      "subject": "Parts of the Computer",
+      "theme": "INFORMATICS",
+      "questions": [
+        {
+          "author": "Justin Ligny",
+          "subject": "Parts of the Computer",
+          "challenge": "Which component is often called the \"brain\" of the computer that is responsible for processing instructions and calculation?",
+          "answer": "The processor",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Justin Ligny",
+          "subject": "Parts of the Computer",
+          "challenge": "Which component stores data temporarily while being processed by the processor?",
+          "answer": "RAM",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Justin Ligny",
+          "subject": "Parts of the Computer",
+          "challenge": "What is the name of data storage technology that allows much faster read and write speeds than traditional hard drives, but at a higher cost?",
+          "answer": "NVMe",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Justin Ligny",
+          "subject": "Parts of the Computer",
+          "challenge": "What acronym refers to a communication protocol used to send and receive emails over the Internet?",
+          "answer": "SMTP",
+          "theme": "INFORMATICS"
+        }
+      ]
+    },
+    {
+      "author": "Justin Ligny",
+      "subject": "Education in Belgium",
+      "theme": "EDUCATION",
+      "questions": [
+        {
+          "author": "Justin Ligny",
+          "subject": "Education in Belgium",
+          "challenge": "In Belgium, until what age is school compulsory?",
+          "answer": "18 years old",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Justin Ligny",
+          "subject": "Education in Belgium",
+          "challenge": "What is the name of the body that oversees the education system in Belgium in Wallonia?",
+          "answer": "French Community",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Justin Ligny",
+          "subject": "Education in Belgium",
+          "challenge": "What is the first Belgian university to be ranked in the QS World University Rankings?",
+          "answer": "Catholic University of Leuven",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Justin Ligny",
+          "subject": "Education in Belgium",
+          "challenge": "What year did Belgium introduce compulsory education for all children between 6 and 18?",
+          "answer": "1914",
+          "theme": "EDUCATION"
+        }
+      ]
+    },
+    {
+      "author": "Justin Ligny",
+      "subject": "Education in the World",
+      "theme": "EDUCATION",
+      "questions": [
+        {
+          "author": "Justin Ligny",
+          "subject": "Education in the World",
+          "challenge": "In which country is the renowned university of Harvard located?",
+          "answer": "United States of America",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Justin Ligny",
+          "subject": "Education in the World",
+          "challenge": "What is the abbreviated name of the United Nations body responsible for promoting education in the world?",
+          "answer": "UNESCO",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Justin Ligny",
+          "subject": "Education in the World",
+          "challenge": "What country is the second highest in terms of universities in the current QS World University Rankings?",
+          "answer": "United Kingdom",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Justin Ligny",
+          "subject": "Education in the World",
+          "challenge": "What percentage of children in the world do not have access to primary education?",
+          "answer": "9%",
+          "theme": "EDUCATION"
+        }
+      ]
+    },
+    {
+      "author": "Justin Ligny",
+      "subject": "Cartoon",
+      "theme": "ENTERTAINMENT",
+      "questions": [
+        {
+          "author": "Justin Ligny",
+          "subject": "Cartoon",
+          "challenge": "In which cartoon is the main character a sponge that lives in a pineapple under the sea?",
+          "answer": "SpongeBob",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Justin Ligny",
+          "subject": "Cartoon",
+          "challenge": "Who is the famous British detective consultant created by Sir Arthur Conan Doyle?",
+          "answer": "Sherlock Holmes",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Justin Ligny",
+          "subject": "Cartoon",
+          "challenge": "What is the name of the animated series that follows the adventures of a family in the city of Springfield?",
+          "answer": "The Simpsons",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Justin Ligny",
+          "subject": "Cartoon",
+          "challenge": "What is the name of the animated series featuring a group of young people fighting the forces of evil using their martial arts skills in New York City?",
+          "answer": "Ninja Turtles",
+          "theme": "ENTERTAINMENT"
+        }
+      ]
+    },
+    {
+      "author": "Justin Ligny",
+      "subject": "Disney",
+      "theme": "ENTERTAINMENT",
+      "questions": [
+        {
+          "author": "Justin Ligny",
+          "subject": "Disney",
+          "challenge": "What is the name of the iconic mouse created by Walt Disney?",
+          "answer": "Mickey Mouse",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Justin Ligny",
+          "subject": "Disney",
+          "challenge": "What is the first Disney princess featured in an animated feature?",
+          "answer": "Snow White",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Justin Ligny",
+          "subject": "Disney",
+          "challenge": "What is the name of the villain in the movie \"Beauty and the Beast\"?",
+          "answer": "Gaston",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Justin Ligny",
+          "subject": "Disney",
+          "challenge": "In what year was the animated film \"Mulan\" released?",
+          "answer": "1998",
+          "theme": "ENTERTAINMENT"
+        }
+      ]
+    },
+    {
+      "author": "Justin Ligny",
+      "subject": "Gusiness World Records",
+      "theme": "IMPROBABLE",
+      "questions": [
+        {
+          "author": "Justin Ligny",
+          "subject": "Gusiness World Records",
+          "challenge": "What is the world record of the men’s 100 meters, held by Usain Bolt?",
+          "answer": "9.58",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Justin Ligny",
+          "subject": "Gusiness World Records",
+          "challenge": "What is the last name of the Kenyan who currently holds the marathon world record with a time of 2 hours, 0 minutes, and 35 seconds, established during the Chicago Marathon in 2023 and who died in 2024 from a car accident?",
+          "answer": "Kiptum",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Justin Ligny",
+          "subject": "Gusiness World Records",
+          "challenge": "Who is the basketball player considered \"The King\" and who has won several NBA champion titles with the Cleveland Cavaliers and the Los Angeles Lakers?",
+          "answer": "LeBron James",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Justin Ligny",
+          "subject": "Gusiness World Records",
+          "challenge": "Which football player holds the record number of football World Cup won?",
+          "answer": "Pelé",
+          "theme": "IMPROBABLE"
+        }
+      ]
+    },
+    {
+      "author": "Justin Ligny",
+      "subject": "Olympic Games",
+      "theme": "IMPROBABLE",
+      "questions": [
+        {
+          "author": "Justin Ligny",
+          "subject": "Olympic Games",
+          "challenge": "Which football team has won the most FIFA World Cups?",
+          "answer": "Brazil",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Justin Ligny",
+          "subject": "Olympic Games",
+          "challenge": " In which sport do players compete for an oval ball and try to score tries by wearing it behind the opposing goal line?",
+          "answer": "Rugby",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Justin Ligny",
+          "subject": "Olympic Games",
+          "challenge": "Which city hosted the 2016 Summer Olympics?",
+          "answer": "Rio",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Justin Ligny",
+          "subject": "Olympic Games",
+          "challenge": "Who is the most decorated American swimmer in Olympic history?",
+          "answer": "Michael Phelps",
+          "theme": "IMPROBABLE"
+        }
+      ]
+    },
+    {
+      "author": "Luca Delmarche",
+      "subject": "Acronyms",
+      "theme": "INFORMATICS",
+      "questions": [
+        {
+          "author": "Luca Delmarche",
+          "subject": "Acronyms",
+          "challenge": "What does USB stands for ? ",
+          "answer": "Universal serial bus",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Luca Delmarche",
+          "subject": "Acronyms",
+          "challenge": "What does HTML stands for ? ",
+          "answer": "Hypertext Markup Language  ",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Luca Delmarche",
+          "subject": "Acronyms",
+          "challenge": "What does 2FA stand for?",
+          "answer": "Two-factor authentication",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Luca Delmarche",
+          "subject": "Acronyms",
+          "challenge": "What does URL stand for?",
+          "answer": "Uniform resource locator",
+          "theme": "INFORMATICS"
+        }
+      ]
+    },
+    {
+      "author": "Luca Delmarche",
+      "subject": "Videogames",
+      "theme": "INFORMATICS",
+      "questions": [
+        {
+          "author": "Luca Delmarche",
+          "subject": "Videogames",
+          "challenge": "What is the best-selling video game ever?",
+          "answer": "Minecraft",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Luca Delmarche",
+          "subject": "Videogames",
+          "challenge": "Which game Faker is the best player?",
+          "answer": "League of legends",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Luca Delmarche",
+          "subject": "Videogames",
+          "challenge": "Which gaming console is the best-selling? ",
+          "answer": "PlayStation 2",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Luca Delmarche",
+          "subject": "Videogames",
+          "challenge": "Which game won the GOTY 2023 (GOTY stands for Game of the Year)? ",
+          "answer": "Baldur’s gate 3",
+          "theme": "INFORMATICS"
+        }
+      ]
+    },
+    {
+      "author": "Luca Delmarche",
+      "subject": "World Wars",
+      "theme": "EDUCATION",
+      "questions": [
+        {
+          "author": "Luca Delmarche",
+          "subject": "World Wars",
+          "challenge": "What are the dates of the Second World War (Example of answer: 1289-1817)?",
+          "answer": "1939-1945",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Luca Delmarche",
+          "subject": "World Wars",
+          "challenge": "With which regime is General Petain associated? ",
+          "answer": "Vichy regime",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Luca Delmarche",
+          "subject": "World Wars",
+          "challenge": "In which German city did the famous international trial take place, judging the key Nazi leaders at the end of World War II?",
+          "answer": "Nuremberg",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Luca Delmarche",
+          "subject": "World Wars",
+          "challenge": "Which battle of the First World War, which took place in 1916, is often associated with a series of major offensives and massive losses?",
+          "answer": "The Battle of the Somme",
+          "theme": "EDUCATION"
+        }
+      ]
+    },
+    {
+      "author": "Luca Delmarche",
+      "subject": "TV shows",
+      "theme": "ENTERTAINMENT",
+      "questions": [
+        {
+          "author": "Luca Delmarche",
+          "subject": "TV shows",
+          "challenge": " Who is the host of \u0027Questions pour un champion\u0027?",
+          "answer": "Samuel Etienne",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Luca Delmarche",
+          "subject": "TV shows",
+          "challenge": "Who was the host of Season 1 of ‘Koh-Lanta’?",
+          "answer": "Hubert Auriol",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Luca Delmarche",
+          "subject": "TV shows",
+          "challenge": "How many seasons does ‘Top gear UK’ have?",
+          "answer": "29",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Luca Delmarche",
+          "subject": "TV shows",
+          "challenge": "What is the largest amount of money someone has earned in \u0027Tout le monde veut prendre sa place\u0027? ",
+          "answer": "196900",
+          "theme": "ENTERTAINMENT"
+        }
+      ]
+    },
+    {
+      "author": "Luca Delmarche",
+      "subject": "Cartoons and Disney",
+      "theme": "ENTERTAINMENT",
+      "questions": [
+        {
+          "author": "Luca Delmarche",
+          "subject": "Cartoons and Disney",
+          "challenge": "In ‘The Lion King’ what is the name of the evil lion?",
+          "answer": "Scar",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Luca Delmarche",
+          "subject": "Cartoons and Disney",
+          "challenge": "When did the Pixar ‘Cars’ come out?  ",
+          "answer": "2006",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Luca Delmarche",
+          "subject": "Cartoons and Disney",
+          "challenge": "What is the name of the grandfather in The Simpsons? ",
+          "answer": "Abraham",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Luca Delmarche",
+          "subject": "Cartoons and Disney",
+          "challenge": "Which actor voices the main cow-boy toy in ‘Toy Story’?  ",
+          "answer": "Tom Hanks",
+          "theme": "ENTERTAINMENT"
+        }
+      ]
+    },
+    {
+      "author": "Luca Delmarche",
+      "subject": "Famous quotes",
+      "theme": "IMPROBABLE",
+      "questions": [
+        {
+          "author": "Luca Delmarche",
+          "subject": "Famous quotes",
+          "challenge": "By whom was the famous quote \u0027To be or not to be, that is the question\u0027 said? ",
+          "answer": "Prince Hamlet",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Luca Delmarche",
+          "subject": "Famous quotes",
+          "challenge": "Which actor famously asked, \u0027What else?\u0027 in a Nespresso commercial? ",
+          "answer": "Georges Clooney",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Luca Delmarche",
+          "subject": "Famous quotes",
+          "challenge": "Which formula 1 driver said, ‘If you no longer go for a gap that exists, you’re no longer a racing driver’? ",
+          "answer": "Ayrton Senna",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Luca Delmarche",
+          "subject": "Famous quotes",
+          "challenge": "Who said, ‘A winner is a dreamer who never gives up’? ",
+          "answer": "Nelson Mandela",
+          "theme": "IMPROBABLE"
+        }
+      ]
+    },
+    {
+      "author": "Luca Delmarche",
+      "subject": "Paintings",
+      "theme": "IMPROBABLE",
+      "questions": [
+        {
+          "author": "Luca Delmarche",
+          "subject": "Paintings",
+          "challenge": "Who painted ‘Mona Lisa’? ",
+          "answer": "Leonard De Vinci",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Luca Delmarche",
+          "subject": "Paintings",
+          "challenge": "Who painted ‘Ceci n’est pas une pipe’ ? ",
+          "answer": "René Magritte",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Luca Delmarche",
+          "subject": "Paintings",
+          "challenge": "In which year did Van Gogh paint ‘Starry Night’? ",
+          "answer": "1889",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Luca Delmarche",
+          "subject": "Paintings",
+          "challenge": "What is the name of the painting painted by Picasso in 1937 that represents a bombing during the Spanish Civil War? ",
+          "answer": "Guernica",
+          "theme": "IMPROBABLE"
+        }
+      ]
+    },
+    {
+      "author": "Noah Baudson",
+      "subject": "Basics of Computing",
+      "theme": "INFORMATICS",
+      "questions": [
+        {
+          "author": "Noah Baudson",
+          "subject": "Basics of Computing",
+          "challenge": "What does a bit represent in computing ? ",
+          "answer": "0 or 1",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Noah Baudson",
+          "subject": "Basics of Computing",
+          "challenge": "What is the base of the binary system ? ",
+          "answer": "Base 2",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Noah Baudson",
+          "subject": "Basics of Computing",
+          "challenge": "What does USB stand for ?",
+          "answer": "Universal Serail Bus",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Noah Baudson",
+          "subject": "Basics of Computing",
+          "challenge": "What device in computing allows multiple peripherals to connect to a single USB port on a computer ?",
+          "answer": "Hub",
+          "theme": "INFORMATICS"
+        }
+      ]
+    },
+    {
+      "author": "Noah Baudson",
+      "subject": "Computing Essentials",
+      "theme": "INFORMATICS",
+      "questions": [
+        {
+          "author": "Noah Baudson",
+          "subject": "Computing Essentials",
+          "challenge": "What do the components of a computer attach to and connect with ?",
+          "answer": "Motherboard",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Noah Baudson",
+          "subject": "Computing Essentials",
+          "challenge": "Which programming language is often represented by a coffee cup logo ?",
+          "answer": "Java",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Noah Baudson",
+          "subject": "Computing Essentials",
+          "challenge": "Which single key allows you to refresh a web page?",
+          "answer": "F5",
+          "theme": "INFORMATICS"
+        },
+        {
+          "author": "Noah Baudson",
+          "subject": "Computing Essentials",
+          "challenge": "On an AZERTY keyboard, what number is also the exclamation mark symbol \u0027!\u0027 ?",
+          "answer": "8",
+          "theme": "INFORMATICS"
+        }
+      ]
+    },
+    {
+      "author": "Noah Baudson",
+      "subject": "History and Geography",
+      "theme": "EDUCATION",
+      "questions": [
+        {
+          "author": "Noah Baudson",
+          "subject": "History and Geography",
+          "challenge": "What is the capital city of Belgium ?",
+          "answer": "Brussels",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Noah Baudson",
+          "subject": "History and Geography",
+          "challenge": "What year marks the traditional start of the Middle Ages, following the fall of the Western Roman Empire ?",
+          "answer": "476",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Noah Baudson",
+          "subject": "History and Geography",
+          "challenge": "What was the period of political and military tension between the United States and the Soviet Union called ?",
+          "answer": "The Cold War",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Noah Baudson",
+          "subject": "History and Geography",
+          "challenge": "How old was Charles III when he was crowned ?",
+          "answer": "73",
+          "theme": "EDUCATION"
+        }
+      ]
+    },
+    {
+      "author": "Noah Baudson",
+      "subject": "Primary school",
+      "theme": "EDUCATION",
+      "questions": [
+        {
+          "author": "Noah Baudson",
+          "subject": "Primary school",
+          "challenge": "Which operation uses the symbol \u0027*\u0027 ?",
+          "answer": "Multiplication",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Noah Baudson",
+          "subject": "Primary school",
+          "challenge": "How many bones does the human body typically have ?",
+          "answer": "206",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Noah Baudson",
+          "subject": "Primary school",
+          "challenge": "Which planet is Earth from the Sun ?",
+          "answer": "3",
+          "theme": "EDUCATION"
+        },
+        {
+          "author": "Noah Baudson",
+          "subject": "Primary school",
+          "challenge": "What is the bone located above the knee, connecting the pelvis and the kneecap ?",
+          "answer": "Femur",
+          "theme": "EDUCATION"
+        }
+      ]
+    },
+    {
+      "author": "Noah Baudson",
+      "subject": "Cultural Activities",
+      "theme": "ENTERTAINMENT",
+      "questions": [
+        {
+          "author": "Noah Baudson",
+          "subject": "Cultural Activities",
+          "challenge": "What is the name of the monkey that accompanies Dora ?",
+          "answer": "Boots",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Noah Baudson",
+          "subject": "Cultural Activities",
+          "challenge": "What is the most famous amusement park in Belgium ?",
+          "answer": "Walibi",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Noah Baudson",
+          "subject": "Cultural Activities",
+          "challenge": "What famous sport in the south of France involves a small jack ?",
+          "answer": "Petanque",
+          "theme": "ENTERTAINMENT"
+        },
+        {
+          "author": "Noah Baudson",
+          "subject": "Cultural Activities",
+          "challenge": "What is the name for an event in a village with various attractions ?",
+          "answer": "fair",
+          "theme": "ENTERTAINMENT"
+        }
+      ]
+    },
+    {
+      "author": "Noah Baudson",
+      "subject": "Unusual Events",
+      "theme": "IMPROBABLE",
+      "questions": [
+        {
+          "author": "Noah Baudson",
+          "subject": "Unusual Events",
+          "challenge": "How many times has Paul Osborn been struck by lightning ?",
+          "answer": "7",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Noah Baudson",
+          "subject": "Unusual Events",
+          "challenge": "What fell on the city of Hanover, Germany, in 1954 ?",
+          "answer": "Candies",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Noah Baudson",
+          "subject": "Unusual Events",
+          "challenge": "Who won the most consecutive F1 races (10) ?",
+          "answer": "Max Vestappen",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Noah Baudson",
+          "subject": "Unusual Events",
+          "challenge": "What brand is the fastest car in the world ?",
+          "answer": "Bugatti",
+          "theme": "IMPROBABLE"
+        }
+      ]
+    },
+    {
+      "author": "Noah Baudson",
+      "subject": "Global Records",
+      "theme": "IMPROBABLE",
+      "questions": [
+        {
+          "author": "Noah Baudson",
+          "subject": "Global Records",
+          "challenge": "Where is the tallest skyscraper in the world located ?",
+          "answer": "Emirats Arab Unis",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Noah Baudson",
+          "subject": "Global Records",
+          "challenge": "What is the most widely consumed Belgian beer worldwide ?",
+          "answer": "Stella",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Noah Baudson",
+          "subject": "Global Records",
+          "challenge": "What is the country most affected by earthquakes ?",
+          "answer": "Chinese",
+          "theme": "IMPROBABLE"
+        },
+        {
+          "author": "Noah Baudson",
+          "subject": "Global Records",
+          "challenge": "What nationality is the man who ran over 27,000 km in one year in a footrace ?",
+          "answer": "French",
+          "theme": "IMPROBABLE"
+        }
+      ]
+    }
+  ]
+}
